@@ -1,0 +1,1336 @@
+Drugname,Absorption/administration,Adverse effects,Contraindications,Distribution,Dosing/administration,Excretion,Indications,Interactions,Metabolism,Pharmacodynamics,Pharmacokinetics,Special notes,Special precautions,Structure/class,Toxicology,Withdrawal syndrome
+ACE INBIHITORS,PO. Captopril has 95% bioavailability that is reduced by food.,"Hypotension – especially first dose hypotension, and especially if there is concomitant salt restriction/patient in hypovolemic state.
+AKI
+Cough/angioedema
+Hyperkalemia
+Teratogenicity","Pregnancy – especially in 2nd and 3rd trimester. It causes hydronephrosis and renal failure in the fetus.
+AKI",,,Renal – 50% unchanged.,"Management of HTN
+Useful in treating HTN with IHD as a single agent, as there is no rebound tachycardia.
+Useful in treating HTN with CKD – it reduces proteinuria and stabilizes GFR.
+ ","K+ sparing drugs/K+ supplements (Anything that increased K+)
+May cause hyperkalemia
+NSAIDs
+NSAIDs will reduce prostaglandin synthesis – this overall reduces the anti-hypertensive effect of ACE-I.","Metabolized by the liver. Note that all ACE-I are prodrugs, except captopril and Lisinopril.","Functions to inhibit ACE. Therefore,
+Reduced conversion of AT-I to AT-II. This means less vasoconstriction and less aldosterone release.
+Reduced breakdown of bradykinin, therefore leading to increased prostaglandin synthesis and vasodilation.
+Overall effect is to reduce PVR and reduce BP.",,,Renal impairment,ACE-I,,
+ACICLOVIR,PO or IV. Bioavailability is very low., ,,"Readily distributes into most tissues and body fluids, with CSF concentrations approximately 20-50%.", ,"T ½ of 2.5 hours, which is prolonged in renal failure.",,,"Not metabolized – it is excreted unchanged in the urine.
+ ","It is a prodrug that requires activation by viral thymidine kinase before become active.
+It then functions by inhibiting viral DNA polymerase, preventing replication of viral DNA.
+Spectrum of activity as follows: HSV-1, HSV-2 and VZV. No in vivo activity against EBV/CMV and HHV-6.
+Therefore, indications as follows:
+Herpes simplex encephalitis
+Neonatal HSV
+Serious HSV/VZV infections, especially in the immunocompromised
+Resistance is due to reduction in viral thymidine kinase or the alteration of DNA polymerase binding site. If there is a reduction in the viral thymidine kinase, then the virus will have cross resistance to valacyclovir, ganciclovir and famciclovir.",, ,,DNA polymerase inhibitor, , 
+ADRENALINE,IV (bolus/infusion). Can also be given IM/SC/Neb/ETT.,"Increased cardiac irritability and arrhythmias
+Cerebral haemorrhage
+Increased BP
+Local ischemia","IHD
+Severe hypertension
+Severe hyperthyroidism
+Phaeochromocytoma
+Glaucoma","Crosses the placenta, but does not cross BBB.","300microg IM for anaphylactic reaction
+Bolus/infusion – start at 5mics/min and titrate as required.",Renal. T ½ of 1-3 minutes,"Anaphylaxis and severe allergic reactions
+Cardiac arrest – facilitates increased blood flow secondary to vasoconstriction
+Asthma (nebulized)
+Croup
+Adjunct for LA – prolongs LA action and reduces bleeding.",,Metabolised at the sympathetic nerve ending via COMT/MAO pathways. Metabolised to VMA and excreted in the urine.,"Binds to α and β receptors (α1 = α2; β1 = β2 activity). Acts through G proteins leading to increase in cAMP and downstream effects.
+Organ system effects as follows:
+Cardiovascular
+Increased inotropy and chronotropy
+Vasoconstriction in almost all vascular beds (vasodilation in hepatic and skeletal muscle)
+Respiratory
+Bronchodilation",,,Avoid using with LA in fingers/toes/ears,Endogenous catecholamine,If severe vasoconstriction (e.g. extravasation in digits) may be reversed with phentolamine (competitive antagonist at α1 and α2 receptors),
+ALLOPURINOL,,,,,,,,,,"Purines (degradation products of amino acid and nucleic acid) are converted to xanthines and hypoxanthines, before being oxidized to uric acid.
+Allopurinol inhibits the final step and increases the amount of xanthine and hypoxanthine, which are both more water soluble.
+Indications as follows:
+Used in between acute gout attacks. Should not be used in the acute phase because it may actually precipitate an acute gout attack.
+Used to prevent increased in uric acid following therapy of blood dyscrasias (this reduces the chance of formation of uric acid stones)
+May also be used as an anti-protozoal drug.
+Adverse effects
+Precipitate gout (use colchicine or NSAIDs as a bridge)
+Nausea, vomiting and diarrhea
+Bone marrow suppression.
+Interactions
+May increase the activity of oral anti-coagulants by inhibiting their metabolism.","Given PO
+Well absorbed, good bioavailability.
+It is metabolized by xanthine oxidase, but its metabolic byproduct retains the ability to further inhibit xanthine oxidase.",,,It functions as a xanthine oxidase inhibitor.,,
+AMINOGLYCOSIDES – GENTAMICIN,"IM or IV. There are very poorly absorbed PO, everything just ends up in the poo.",,,They are very polar drugs and do not enter cells readily. Gentamicin is largely excluded from the CNS and eye.,,"Renal
+Rate of excretion is directly related to creatinine clearance and therefore gentamicin levels should be measured/renal function should be monitored.",,, ,"Aminoglycosides are bactericidal drugs that function by binding irreversibly to the 30S subunit of the ribosome and inhibit protein synthesis.
+Firstly, the drug enters the cell by diffusing across the membrane. Secondly, it is actively transported across the cell membrane into the cytoplasm by an oxygen dependent process. Transport is coupled to a proton pump. This means that low ECF pH (forces the bacterial proton pump to work against a concentration gradient) and anaerobic conditions (low oxygen levels) make aminoglycosides less effective.
+Aminoglycosides are very effective against aerobic Gram-ve bacteria, e.g. E.coli, Proteus, Klebsiella, Enterobacter, Serratia and other Gram-ve rods.
+Importantly, aminoglycosides demonstrate synergistic activity with other cell wall inhibiting drugs (penicillins, vancomycin). Using a β-lactam antibiotic together with gentamicin will extend its spectrum to include Gram +ve bacteria.
+Therefore, clinical indications are as follows:
+Gram-ve sepsis (may be helpful as a second agent due to synergism)
+It is not helpful in the following situations:
+Pneumonia/lung abscess (decreased oxygen tension in the infected lung, and the infected tissue has lower pH)
+Staph/strep infections as a single agent (due to inability to penetrate the cell wall)
+Resistance is usually plasmid mediated, and has the following mechanisms:
+Production of transferase enzyme that inactivates aminoglycosides
+Reduced entry of aminoglycoside into the cell
+Alteration of ribosomal binding site
+Aminoglycosides have interesting properties that may make single injection preferable to two or three divided doses. They are:
+Concentration dependent killing – increased concentration will kill increased proportion of bacteria at an increased rate.
+Significant post-antibiotic effect – antibacterial activity persists beyond the time by which measurable drug is present. This may last several hours.
+Also note that toxicity is both time and concentration dependent. Toxicity is unlikely to occur unless a certain threshold concentration has been reached. Hence, at therapeutic concentrations, the time above the threshold is less with single doses than with multiple ones.
+Other benefits include lower nursing cost and allowing outpatient treatment.",, ,, ,"All aminoglycosides are ototoxic and nephrotoxic.
+The ototoxicity usually manifests as tinnitus and high frequency hearing loss initially, then vestibular damage (ataxia and vertigo)
+Note that ototoxicity of gentamicin is irreversible and mainly manifests as vestibular dysfunction.
+Nephrotoxicity is usually mild and reversible.
+Toxicity is potentiated by high drug concentration, longer duration of use, elderly and renal insufficiency.
+Avoid the use of gentamicin with loop diuretics (e.g. frusemide or ethacrynic acid, as they are ototoxic) and with other nephrotoxics (e.g. vancomycin and amphotericin)", 
+AMIODARONE,"PO and IV
+PO absorption can be erratic.
+The oral bioavailability is 35-65%, due to first pass metabolism.","Acutely – causes bradycardia (especially those with pre-existing SA and AV node disease) and hypotension (due to vasodilation)
+Chronic – pulmonary fibrosis (most significant adverse reaction), photodermatitis, thyroid dysfunction (both hypo and hyperthyroid), hepatitis/abnormal LFTs and optic neuritis.","Severe hypotension
+Bradycardia
+Thyroid dysfunction
+Breast feeding","Strongly protein bound, T½ of 20-100 days. Very large Vd.",,"Rapid component is 3-10 days (50% of the drug is eliminated here)
+Slower component over several weeks.
+After discontinuation, drug effects may still be seen for 1 to 3 months.
+Elimination is by hepatobiliary system.","Termination of both atrial and ventricular tachyarrhythmias.
+Prevents recurrent VT/VF, may be used to revert VT/VF.
+Used in the third cycle of shockable ACLS rhythm.","Amiodarone is a CYP450 enzyme inhibitor. Therefore
+It increases the effect of digoxin, warfarin and statins.
+Because it is cleared by hepatic CYP system, other inhibitors, e.g. cimetidine will increase its effect. Also, inducers, e.g. rifampicin, will reduce its effect.
+Because it is an anti-arrhythmic, it potentiates other anti-arrhythmics, e.g. procainamide, phenytoin, quinidine and flecanide.",Amiodarone is hepatically metabolized to desethylamiodarone. This metabolite is bioactive.,"Prolongs the APD and therefore, the QT interval mainly by K+ channel blockade.
+Importantly, it has class I, II and class IV activity as well. This broad spectrum of action accounts for its low risk of TdP despite QT prolongation.
+Overall, amiodarone’s effects are prolonged AV conduction and decreased automaticity in the Purkinje fibers (β-blockade effect)
+It also slows the sinus rate (CCB effect)
+Amiodarone also has α-blockade effect, causing vasodilation and hypotension.",,,,Class III anti-arrhythmic,,
+AMPHOTERICIN B,,,,,,,,,,"Anti-fungal drug
+Interferes with cell membrane function by binding to ergosterol (The predominant sterol of fungi is ergosterol, which is a major component of the fungal lipid cell membrane)
+Therefore, it is the antifungal with the broadest spectrum of activity, including candida, Cryptococcus, aspergillus and histoplasma.
+It is useful for life-threatening mycotic infections, and is often used as an initiation agent.
+Toxicity can be divided into immediate and long term.
+Immediate
+Infusion related toxicity, i.e. fevers, chills, vomiting, headache, hypotension and muscle spasms.
+Treat by slowing down the infusion rate.
+Long term
+Renal failure (most significant reaction) which may be irreversible.
+Anaemia (secondary to renal damage)
+Abnormal LFTs.
+Intrathecal amphotericin is very toxic.","Parenteral administration. Poorly absorbed PO (PO use only for fungi in the GIT lumen)
+90% bound to serum proteins.
+Does not penetrate CSF (use fluconazole for CSF fungal meningitis)
+No need for dose adjustments in hepatic/renal failure.",,,Amphoteric polyene macrolide,,
+ASPIRIN,"PO
+Aspirin is a weak acid with a pKa of 3.5. It is well absorbed in the GIT due to acid pH.", , ,Aspirin is absorbed in the GIT as ASA. It has a T ½ of 15 minutes (rapidly broken down by red cell esterases). It is hydrolyzed to acetic acid and salicylate. Salicylate is bound to albumin and then undergoes glucuronidation in the liver., ,"It is renally excreted.
+Note that alkalinizing the urine will increase its excretion.","With other drugs that are highly protein bound (e.g. phenytoin).
+It is a weak acid and therefore reduces the clearance of penicillins (like probenacid).
+Decreases the activity of spironolactone.", ,"At low doses, aspirin follows first order kinetics.
+At higher doses, aspirin follows zero order kinetics. The T ½ is extended to 15 hours.","(Diagram retrieved from Katzung 12th edition pg. 639)
+Aspirin is an irreversible inhibitor of platelet COX (this lasts 8-10 days, which is the lifespan of the platelet as the platelet cannot manufacture new COX).
+In other tissues, synthesis of new COX replaces the enzyme so aspirin’s effects on other tissues last 6 to 12 hours.",, , ,Also known as acetylsalicylic acid.,"Acute ingestion of >200mg/kg or chronic over medication will cause toxicity.
+The mechanism of toxicity is uncoupling of oxidative phosphorylation and disruption of normal cellular metabolism.
+Signs and symptoms as follows:
+CNS: vertigo, tinnitus and loss of hearing.
+First sign is respiratory alkalosis and hyperventilation. Metabolic acidosis then occurs (usually HAGMA). ABG will show mixed respiratory alkalosis and metabolic acidosis.
+Hyperthermia and vomiting may also occur – contributes to fluid loss and dehydration.
+Severe poisoning leads to profound metabolic acidosis, seizures, coma, pulmonary oedema and cardiovascular collapse.
+Treatment
+Supportive care
+No specific antidote
+Enhanced elimination (activated charcoal, sodium bicarbonate to aid urinary excretion, and haemodialysis if salicylate levels >100)
+ ", 
+AZOLES,,,,,,,,,,"Inhibits fungal CYP 450, therefore reducing ergosterol synthesis.
+Specificity comes from the fact that azoles have greater affinity for fungal CYP than human CYP.
+Imidazoles are less selective and hence more toxic.
+Spectrum of activity
+Broad – candida, mycoses, aspergillus
+Toxicity
+Minor GI upset
+Rarely, clinically significant hepatitis.","Fluconazole has interesting pharmacokinetics
+Can be given PO/IV (good bioavailability)
+It has high CSF penetration and can be used un fungal meningitis (other anti-fungals do not)
+It is an inhibitor of CYP 450 enzyme, and has drug interactions as such.
+Widest therapeutic index.",,,"Imidazoles – ketoconazole, miconazole, clotrimoxazole
+Triazoles – fluconazole, voriconazole",,
+BARBITURATES,IV,Extension of its pharmacologic properties – CNS depression and respiratory depression.,Absolute CI in porphyria (barbiturates may precipitate porphyria crisis),"It is very rapidly distributes into and then away from the CNS, which accounts for its quick onset and offset.",,"Excreted in the urine mainly as glucuronide derivative.
+One exception is phenobarbital, which is excreted 20-30% unchanged in the urine. Phenobarbital is a weak acid with a pKa of 7.4. Therefore, alkalinizing the urine may increase its elimination significantly.","Used to terminate status epilepticus
+Used as an induction agent (e.g. thiopental)","Additive effects if given with other CNS drugs (opioids/anti-psychotics/alcohol)
+It is an enzyme inducer, so reduced effects of warfarin/digoxin/carbamazepine","Hepatic, by microsomal enzymes.
+Note that overall, metabolism rate is slow and therefore, accumulation does occur if there is repeated dosing/infusion. It is not suitable for long term sedation, e.g. in ICU.
+Remember that barbiturates are enzyme inducers.","Functions at the GABA-A receptor
+In contrast to BZD, it increases the duration of GABA-A channel opening.
+At higher concentrations, it may be GABA-mimetic (that is, they can open the channel themselves)
+Also depress excitatory transmission of glutamate by binding to AMPA channels.
+Also has some non-synaptic membrane effects
+Overall, due to their effect on many channels, barbiturates producing more pronounced central depression and having a lower margin of safety than BZDs. They may also be used as induction agents.",,,"Elderly patient
+Liver disease",,,
+BENZODIAZEPINES,"PO, IV, IM, PR","Extension of its pharmacologic properties
+Oversedation, leading to respiratory depression (especially in patients with pre-existing pulmonary disease). It is a dose related inhibition of the respiratory centre.
+CVS Depression (especially in patients who are hypovolemic/CCF/pre-existing CVS disease) due to inhibition of vasomotor centers.
+CVS collapse is possible.
+Effects more marked with IV use.
+Tolerance (more drug needed to produce same effect)
+Cross tolerance occurs with EtoH
+May be due to down-regulation of BZD receptor
+Dependence, both physiological and psychological
+Characterized by anxiety, insomnia, CNS excitability and seizures in severe cases.
+Higher dose/drugs with short T ½ and abrupt cessation leads to withdrawal symptoms.",,"Lipid soluble drug
+Very strongly bound to plasma proteins.",For status: 0.15mg/kg IV; or 10mg PR and repeat in 10 minutes.,Renal,"Can be used in ED to treat status epilepticus
+Procedural sedation
+Aids induction prior to intubation
+Alcohol withdrawal (Delirium tremens)
+Other – muscle relaxation, sedative hypnotic in agitated patient, post intubation sedation.","Inhibitors of CYP 450 (e.g. amiodarone, cimetidine and antibiotics) may increase duration.
+Inducers will reduce duration of action.
+Additive toxicity (CVS and respiratory depression) with opioids.
+Also additive toxicity with alcohol and other typical anti-psychotics (Esp. the phenothiazines)
+It is antagonized by flumazenil","Refer to the diagram above for benzodiazepine metabolism. The asterisks indicate active metabolites. Note that diazepam is metabolized to desmethymdiazepam, which is active.
+Lorazepam has no active metabolite.
+Note that hepatic metabolism accounts for clearance of all benzodiazepines.
+Most BZDs will undergo phase I reaction, catalyzed by CYP450 systems. The metabolites are then conjugated to form glucuronides and excreted.
+However, many phase I metabolites are pharmacologically active, e.g. desmethyldiazepam. This means that the T ½ of diazepam is 40 hours.
+Triazolam is metabolized to its α-hydroxy metabolites that do have activity, but they are rapidly conjugated.
+Note that the metabolism of diazepam, midazolam and alprazolam may be induced/inhibited by other drugs.
+In patients who are elderly and have severe disease, these drugs may have longer elimination half-lives.
+In summary, BZDs undergo phase I and phase II reactions in the liver and are excreted by the kidneys. Liver disease affects T ½ but renal disease does not.","Binds to the benzodiazepine site of the GABA-A receptor.
+Main function is to increase the efficiency of GABAergic synaptic inhibition.
+Facilitates increased frequency (c.f. barbiturates, that increase duration) of the opening of chloride channel.
+Benzodiazepines are unable to open the channel itself. (c.f. barbiturates, which can open the channels themselves at higher doses)",,,Elderly and those with pre-existing hepatic disease.,Sedative-hypnotic,"Flumazenil is the direct antidote
+It is a competitive antagonist of benzodiazepines at the BZD receptor. It also reduces GABA binding. This leads to reduced chloride entry into the cell, and therefore reduced hyperpolarization and increased excitability.
+Indications for flumazenil: a) avoid intubation after BZD overdose; b) reversal of BZD after procedural sedation; and c) diagnostic tool.
+Adverse effects as follows:
+Very short T ½ (duration of action is 1-3 hours) and therefore may need repeated dosing.
+Unpredictable effect on antagonism of respiratory depression (that is, giving flumazenil may not reverse respiratory effects of BZDs)
+Risk of precipitating seizures in mixed OD
+Risk of precipitating withdrawal symptoms
+Risk of precipitating seizures in a patient taking BZDs for epilepsy.
+Due to unpredictable effect on antagonism, ongoing CVS/respiratory monitoring is required when used.",
+CARBAMAZEPINE,"PO
+Peak levels occur at 6 hours","Side effects as follows:
+CNS (most common) – diplopia and ataxia. Mild drowsiness.
+GIT upset
+Idiosyncratic à blood dyscrasias and aplastic anaemia.
+Rash",,"Distributes slowly.
+Vd = 1L/kg,
+It is 70% bound to plasma proteins but there is no displacement of other drugs.",,"Renal
+ ","GTCS
+Trigeminal neuralgia
+Mania","Strong enzyme inducer and may also induce its own metabolism.
+Other inducers, e.g. phenytoin/phenobarbital may decrease its level.
+Other inhibitors (e.g.  valproate) may increase its levels.
+ ","Completely metabolized hepatically to carbamazepine 10,11 epoxide (it has anti-convulsant activity)
+Strong inducer of hepatic enzymes. May induce its own metabolism and may require frequent dose changes in the first few weeks of treatment.","Similar to phenytoin
+Na+ channel blockade. Inhibits repetitive high frequency neuronal firing.
+Also may potentiate K+ channel, causing hyperpolarization.",,,,Similar to TCA/Imipramine,,
+CHLORAMPHENICOL,"PO, IV, topical","GIT – causes nausea, vomiting and diarrhea
+Grey baby syndrome
+Aplastic anaemia (rare idiosyncratic reaction affecting 1:40000, it is dose and duration dependent)", ,Wide – penetrates cell membranes. CSF levels are the same as plasma., ,"Urine, and a small amount in bile/faeces.","Microsomal enzyme inhibitor
+Because chloramphenicol is bacteriostatic, it may reduce the activity of bactericidal drugs (e.g. penicillin/aminoglycosides)", ,"Inactivated by conjugation/glucuronidation. Therefore, dose must be markedly reduced in hepatic failure (but not renal failure)
+Also a strong inhibitor of microsomal enzymes – leads to increased levels of phenytoin, warfarin and theophylline.","Chloramphenicol functions as an inhibitor of microbial protein synthesis by binding reversibly to the 50S subunit of the bacterial ribosome.
+It is a bacteriostatic drug
+It has a very broad spectrum – covers Gram+ve, Gram-ve, aerobic and anaerobic bacteria.
+Its activity against intracellular organisms is against Rickettsia, but not against Chlamydia.
+H.influenzae, Neisseria and bacteroides are all susceptible.
+Hence, the indications are as follows:
+Treatment of meningitis in patients with penicillin hypersensitivity.
+Topically, in eye infections
+Serious rickettsial infections, e.g. typhus or Rocky Mountain Spotted Fever
+Resistance is due to the formation of chloramphenicol acetyltransferase, which inactivates the drug.",, , , , , 
+CLINDAMYCIN, , , , , , , , , ,"Binds to the 50S ribosomal subunit.
+Effective against Gram+ve bacteria and anaerobes (both Gram+ve and Gram-ve). It does not have activity against aerobic Gram-ve bacteria due to the presence of the cell wall.
+It is effective against staph, strep and pneumococci, but enterococcus is resistant to clindamycin.
+Therefore, indications for clindamycin are as follows:
+Skin infections
+Anaerobic infections
+May be used to treat GIT infections or PID.
+Note that resistance to clindamycin will confer cross resistance to macrolides. Resistance is due to:
+Mutation of ribosomal receptor site
+Modification of receptor site by methylase
+Enzymatic inactivation.",, , ,A chlorine substitute of lincomycin (it does not contain the macrocyclic lactone ring associated with macrolides), , 
+CODIENE/HYDROCODONE/OXYCODONE (pharmacokinetic profile),PO,,,,,"Renal/urine
+Oxycodone’s metabolites may accumulate in renal failure, leading to prolonged sedation.",,,"Codiene, hydrocodone and oxycodone are all hepatically metabolised by CYP 2D6.
+Codiene is a partial µ-receptor agonist. Hepatic metabolism is crucial in codeine because codeine has a low affinity for the opioid receptor site.
+Codiene is metabolised to morphine.
+However, depending on CYP activity, a patient may actually receive no analgesia/be over-analgesed.
+The activity of oxycodone and hydrocodone do not depend on hepatic metabolism.",As above,,,,,,
+COLCHICINE,,,,,,,,,,"Functions by binding to the intracellular protein tubulin, therefore preventing its polymerization and reducing leukocyte migration and phagocytosis.
+It also inhibits the formation of LTB4.
+Therefore, indications as follows:
+Acute gout
+Acute Mediterranean fever
+May be effective in hepatic cirrhosis.
+Its main side effect is diarrhea.
+However, because it inhibits intracellular tubulin function, it can be quite toxic in overdoses. Acute OD will cause bloody diarrhea, shock and renal failure. Death is secondary to ascending CNS paralysis.
+IV colchicine is thought to have more side effects.","Rapidly absorbed after PO administration.
+Hepatically metabolized, and secreted in urine.",,, ,,
+DEPOLARISING SKELETAL MUSCLE RELAXANT – SUXEMETHONIUM,IV only,"Hyperkalemia
+Raised intra-ocular pressure (note that Sux is not an absolute CI unless the anterior chamber is open due to globe rupture)
+Increased intra-gastric pressure (higher risk of aspiration)
+Myalgia post-op
+Malignant hyperthermia","Hyperkalemia
+Also CI in other conditions that may release K+, e.g. burns, nerve damage, neuromuscular disease, closed head injury.
+Pseudocholinesterase deficiency
+Open anterior chamber/globe rupture",Very polar – small Vd.,"1mg/kg in adults
+1-2mg/kg in paediatric population",Action terminated by diffusion,"RSI, due to rapid onset","Halothane gas – cardiac arrhythmias
+ ","Sux is broken down by plasma cholinesterase and bytyrylcholinesterase (pseudocholinesterase)
+No/very little metabolism occurs at the NMJ.
+The offset of action is due to Sux diffusing away from the NMJ.
+Onset time is 30-45s (slower in low cardiac output states) and offset time is 8-10 minutes.","Suxemethonium binds to the nicotinic receptor and activates it, causing depolarization of the motor end plate and spreading of the action potential.
+However, it is not metabolized by true acetylcholinesterase at the NM junction, and therefore, repolarization cannot occur.
+Since muscular contraction requires repetitive firing, a flaccid paralysis then occurs. The initial flaccid paralysis is known as phase I (depolarizing) block, and is further augmented by acetylcholinesterase inhibitors.
+Prolonged exposure to suxemethonium causes a repolarization of the membrane, but it is not easily depolarized again. The membrane is said to be desensitized (phase II). The channel behaves as if it were blocked by non-depolarising agents and this phase may be reversed with acetylcholinesterase inhibitors.
+Overall suxemethonium causes a paralysis in ~30s, affecting the arm, neck and leg muscles first before respiratory muscles.
+CVS effects of suxemethonium
+Suxemethonium stimulates nicotinic receptors at the sympathetic and parasympathetic ganglia, as well as muscarinic receptors in the heart. This leads to negative inotropy and negative chronotropy. Administration of an anti-cholinergic medication concurrently may reduce the response.
+A second dose of Sux within 5 minutes may also cause bradycardia.",,,,Suxemethonium’s chemical structure is essentially two ACh molecules bound together.,,
+DIGITALIS,,As mentioned above,,"It has a large Vd à 6.3L/kg. This allows it to enter the CNS. It accumulates in the heart, kidney and liver.",,"Mostly excreted unchanged in kidneys (And therefore, needs dose adjustment in renal failure). Its T ½ is 40 hours.","AF, especially in the setting of heart failure.
+ ","Electrolytes
+Hyperkalemia – hyperkalemia inhibits digoxin binding to the Na/K ATP-ase. Hyperkalemia itself also reduces cardiac automaticity. Therefore, moderate hyperkalemia will reduce the toxicity of digoxin.
+Hypercalcaemia – potentiates digoxin toxicity by increasing the intracellular Ca2+ stores, producing automaticity.
+Hypermagnesemia – opposite effect to hypercalcaemia.
+Drugs that increase digoxin effect
+Amiodarone (by increasing plasma digoxin concentrate), diltiazem, verapamil, quinidine, macrolide antibiotics (azithromycin, erythromycin and clarithromycin), K+ depleting drugs (including diuretics), spironolactone and propafenone.
+Drugs that decrease digoxin effect
+Kaolin pectin, rifampicin (by increasing metabolism) and sulfasalazine (by decreasing GI absorption)
+ ",Less than 20% is metabolized.,"It is an inhibitor of Na+/K+ ATP-ase.
+Therefore – this increases intracellular Na+ and decreased intracellular K+.
+Because of increased intracellular Na+, there is reduced Na/Ca exchanger activity and therefore, there is an increase in intracellular calcium.
+This increase in intracellular Ca2+ causes an increase in contractility.
+Electrical effects
+At higher concentrations of digitalis, a relative extracellular hyperkalemia and intracellular hypercalcaemia occurs.
+This leads to increased automaticity of the heart muscle (easier for the myocyte to reach threshold potential). Therefore, there are patterns of bigeminy, followed by VT and then VF.
+Parasympathetic and sympathetic effects
+At lower doses, digoxin has parasympathetic effects: early signs of toxicity are bradycardia and AV block. At higher doses of toxicity, there is an increased sympathetic effect which may further sensitize the myocardium to automaticity.
+Other system effects
+GIT: it excites the GIT tissues, so patients develop anorexia/nausea/vomiting/diarrhea.
+CNS: disorientation and visual hallucinations may be present.",,,"Renal failure
+Hyperkalemia
+Hypothyroidism",Cardiac glycoside,"Symptoms as mentioned above.
+Specific antidote is DigiFab antibody, where 1 vial (40mg) binds to ~0.5mg digoxin.",
+ETHANOL and ALCOHOL (METHANOL/ETHYLENE GLYCOL) TOXICITY,PO,As mentioned above,,"Well absorbed from GIT. Peak blood levels in 30 minutes.
+Vd is ~0.7L/kg (total body water)
+Ethanol easily passes BBB, and therefore readily enters the CNS.",,"Urine
+Small amount in lungs (forms the basis for ethanol breathalyzer tests)",,"Enzyme induction leads to increased metabolism of drugs metabolized by the CYP450 system. Especially important in concurrent paracetamol overdose – increased metabolism of paracetamol to its toxic byproducts may increase hepatotoxicity.
+Additive effects with other CNS depressants.","Metabolism follows zero order kinetics
+~7-10mg/hour typically metabolized by average adult.
+Ethanol is metabolized to acetaldehyde via two major pathways:
+Alcohol dehydrogenase pathway
+Alcohol dehydrogenase found mainly in liver, but small amounts can be found in the brain and stomach.
+Alcohol is converted by alcohol dehydrogenase to acetaldehyde. NAD+ acts as a co-factor, and is converted to NADH.
+Note that in acute toxicity, NADH will accumulate and cause lactic acidosis and hypoglycaemia.
+Microsomal ethanol oxidizing system (MEOS)
+MEOS uses CYP450 enzymes and NADPH as a co-factor.
+It is inducible (and therefore ethanol may induce the metabolism of other drugs)
+The acetaldehyde is then converted to acetate, which is broken down to CO2 and H2O. The enzyme metabolizing this reaction is aldehyde dehydrogenase.
+Note that aldehyde dehydrogenase (and not alcohol dehydrogenase) is inhibited by disulfiram and other drugs (e.g. metronidazole and trimethoprim)","In CNS, ethanol affects many different receptors
+Increased GABA activity at the GABA-A receptor
+Decreased glutamate activity at the NMDA receptor
+Also affects the Na/K ATPase, phospholipase C and other ion channels.
+Organ system effects (acute)
+CNS
+Disinhibition, sedation, anxiolysis
+At higher doses – coma, respiratory depression and death
+CVS
+Decreased myocardial contractility
+Smooth muscle
+Vasodilation, probably due to acetaldehyde
+Organ system effects (chronic)
+GIT and liver
+Fatty liver disease à alcoholic hepatitis à cirrhosis/liver failure
+Chronic pancreatitis
+Gastritis
+Multiple vitamin deficiencies (especially water soluble ones)
+Nervous system
+Tolerance and both physical and psychological dependence.
+Withdrawal syndrome/delirium tremens if acute cessation. DTs are characterized by excitability/agitation and may cause seizures.
+Neurotoxicity – peripheral neuropathy, ataxia, Wernicke-Korsakoff encephalopathy and optic neuropathy
+CVS
+Dilated cardiomyopathy with ventricular hypertrophy and fibrosis
+Arrhythmias, probably due to chronic electrolyte abnormalities
+HTN
+Vascular disease – stroke/MI/PVD
+Haematological
+Iron deficiency anaemia secondary to gastritis
+Folate deficiency – megaloblastic anaemia",,,"Be prepared to treat respiratory and CNS complications in acute intoxication
+Respiratory: be prepared for respiratory depression, vomiting and aspiration
+CNS: remember to give thiamine.
+Also give glucose (monitor for hypoglycaemia)",,"Methanol
+Found in “canned heat” and windshield washing products
+The toxicity of methanol is due to the metabolic byproducts of formaldehyde and formic acid
+Symptoms (note that because symptoms are due to metabolic byproducts, they are only seen ~6-30 hours post ingestion)
+Non-specific early signs (intoxication, gastritis, high osmolar gap)
+Characteristic visual disturbance – “like being in a snowstorm”
+May progress to bradycardia, coma and seizures.
+Death is due to respiratory arrest
+Treatment
+Good supportive care
+Suppression of metabolism – fomepizole and IV ethanol are temporizing measures
+Removal of toxin – haemodialysis
+Alkalinisation in order to counteract metabolic acidosis (Na bicarbonate)
+Folic acid and folinic acid may be useful adjuncts (but does not directly improve patient’s clinical state)
+ 
+Ethylene glycol
+Found in antifreeze/industrial solvent
+Toxicity comes from its toxic byproducts (aldehydes and oxalate crystals)
+Symptoms occur in three stages:
+First few hours: CNS excitation, then CNS depression
+Severe metabolic acidosis
+Renal failure, due to oxalate crystals.
+Features suggestive of ethylene glycol toxicity are HAGMA, high osmolar gap and oxalate crystals in urine. There is no visual disturbance.
+Treatment
+As with methanol toxicity: good supportive care, fomepizole, IV ethanol and haemodialysis.",
+FENTANYL (pharmacokinetic profile),"PO, IV, SC, Patch, intra-nasal, lozenges",,,"Rapidly leaves the blood stream and accumulates in highly perfused tissues (brain/kidney/lung/heart)
+Importantly, fentanyl is lipophilic and tends to accumulate in fatty tissue, particularly after high dose/long term infusion.
+Overall high first pass metabolism.",,Renal,,,"Hepatic (almost fully metabolised) by CYP3A4 system (c.f. codeine, which is by the CYP2D6 system)
+No active metabolites",As above,,,,Phenylpeperidine opioid (fentanyl/sufentanil/remifentanil/alfentanil),,
+FLUROQUINOLONES,PO – bioavailability of >95%. Note that absorption is impaired by divalent cations (same property as tetracyclines) and therefore should not be taken together with antacids.,"GIT effects – nausea, vomiting and diarrhea
+CVS – may cause long QTc. Avoid fluroquinolones if patient is already on QT-prolonging drugs.
+Cartilage damage and arthropathy – avoid prescribing in <18 years old.
+Tendonitis/tendon rupture",, , , ,,,"Most fluroquinolones are renally cleared, either by glomerular filtration or tubular secretion. Dose reduction is needed in renal failure.
+Moxifloxacin is the exception – it is hepatically metabolized, and dose should be reduced in hepatic failure (not renal failure)","Functions by blocking DNA gyrase and topoisomerase IV.
+This prevents normal DNA transcription and replication.
+Note that fluroquinolones were developed to have good Gram+ve and Gram-ve cover. They can be divided into three groups based on activity
+Group 1 – norfloxacin. It is the least active of all fluroquinolones against Gram-ve and Gram+ve bacteria.
+Group 2 – ciprofloxacin, which has excellent Gram-ve cover and moderate to good Gram+ve cover.
+Effective against Enterobacter, Neisseria, Pseudomonas, Campylobacter and Haemophilus.
+In particular, ciprofloxacin has the most effective Gram-ve cover.
+It is effective against MSSA but not MRSA.
+It has limited efficacy against strep and enterococcus.
+Group 3 – moxifloxacin, which has excellent Gram-ve cover and good Gram+ve cover, having activity against staph and strep.
+Overall, fluroquinolones do have coverage against atypical pneumonia agents (Chlamydia, legionella and mycoplasma) and against mycobacterium.
+Hence, indications are as follows:
+UTI – because all fluroquinolones (except moxi) achieve good levels in urine.
+Bacterial diarrhea (salmonella, shigella)
+Intra-abdominal infections
+Respiratory infections
+May be used to treat chlamydial infections.
+Note that high level resistance to one fluroquinolone will generally confer resistance to all other members of this class. Resistance is due to:
+Alteration in quinolone binding region
+Alteration in permeability of the drug
+May be plasmid related",, ,,Fluorinated analogs of nalidixic acid., , 
+GLYCERYL TRINITRATE,"Multiple routes – S/L, I/V, Buccal, Nasal, Patch, oral (for example, isosorbide mononitrate)","Tachycardia and hypotension
+Headache (note that the drug is safe in raised intra-ocular pressure)
+Lightheadedness and dry mouth
+Lightheadedness and dry mouth
+Tachyphylaxis
+This is probably due to a decrease in tissue sulfhydryl groups and can be partially prevented/reversed with a sulfhydryl-regenerating agent.
+Methaemaglobinemia
+Nitrite groups react with haemoglobin to form methaemaglobin (but remember that in adults, this tends to be insignificant)",,,,Via kidneys,"Angina of effort
+Variant/Prinzmetal’s angina (coronary vasospasm)
+Unstable angina
+Mainly important because GTN reduces preload, and therefore reduces cardiac well tension and therefore, myocardial oxygen demand.",,The liver contains a high capacity organic nitrate reductase à this ultimately inactivates the drug (extensive first pass),"Taken up by vascular smooth muscle cells (and not cardiac, or skeletal muscle)
+Denitrited by glutathione-S-transferase
+Nitric oxide is then released. NO activates cGMP and reduces intracellular Ca2+.
+This leads to vasodilation.
+Organ system effects
+Vasodilation – low dose leads to vasodilation first. Larger dose causes arteriolar dilation, leading to reduced BP and reduced afterload à this reduces myocardial oxygen demand.
+Also causes a redistribution of blood flow in ischaemic cardiac tissues, leading to relief of angina symptoms.",,,"Hypotensive patients
+Those patients with inferior/posterior MI
+Patients which cannot increase cardiac output to compensate (e.g. severe AS, tamponade)
+AVOID DRUG IN RICP
+Significant tachycardia/bradycardia",Nitric and nitrous acid of alcohols,,
+GLYCOPEPTIDE ANTIBIOTICS – VANCOMYCIN,IV only as very poorly absorbed from GIT. PO used in very limited circumstances to treat C.difficile.,"Common – present in 10% of cases but usually quite minor.
+Phlebitis
+Red man syndrome (due to histamine release)
+Ototoxicity and nephrotoxicity (not common, but may have additive effect with gentamicin)",,Crosses BBB,,"Mainly renally excreted (up to 90%). Will accumulate in renal failure.
+ ",,,,"Inhibits cell wall synthesis by binding to the D-ala—D-ala terminal of peptidoglycan (a portion of the bacterial cell wall) therefore preventing its elongation. This makes vancomycin useful in treating MRSA because MRSA changes its PBP binding site.
+Effective only against G+ve bacteria.
+Has synergistic effect with gentamicin and therefore can treat enterococcus effectively.
+Can also cross the BBB.
+Based on properties above, the indications are as follows:
+MRSA
+Treatment of penicillin-resistant pneumococcal meningitis (in combination with ceftriaxone, cefotaxime or rifampicin)
+Given orally to treat C.difficile.",,,,Glycopeptide antibiotic,,
+H2 RECEPTOR ANTAGONIST,,,,,,,,,,"Remember that the parietal cell has receptors for gastrin, histamine and ACh. Gastrin is released from the antral G-cells into the blood. This causes an increase in cytosolic Ca2+, which stimulates acid secretion from the H/K ATPase (the proton pump) on the canalicular surface.
+The H2 receptor antagonists are competitive antagonists of the H2 receptor. They are highly selective and do not affect H1 or H3 receptors.
+When given in usual doses, they inhibit 60-70% of 24 hour gastric secretion.
+Indications as follows:
+GORD
+Peptic ulcer disease
+Gastritis.
+Adverse effects (with regards to cimetidine)
+Cimetidine inhibits binding of dihydrotestosterone to androgen receptors. This inhibits metabolism of estradiol and increases serum prolactin levels. It may cause gynecomastia or impotence in men, and galactorrhea in women.","In particular, cimetidine is a strong inhibitor of hepatic CYP450 pathways. The T ½ of drugs metabolized by these pathways may be prolonged.
+Ranitidine binds less avidly to CYP systems.",,,"Examples: cimetidine, ranitidine",,
+HALOPERIDOL,"PO, IM, IV",As with previous page,,"Readily (but incompletely) absorbed
+Highly lipid soluble, strong protein binding and large Vd – means that it has a longer clinical duration of action than can be predicted from T ½",,Urine,"Psychosis
+Mania
+Agitation/Tourette
+Droperidol (a butyrophenone) is used together with fentanyl as neurolepanaesthesia.","Haloperidol may potentiate the effects of other CNS depressants, especially if used in conjunction with benzodiazepines
+Reduced effect of Levodopa
+Worsens Parkinson’s disease",Hepatic. Note that haloperidol has the least first-pass metabolism with bioavailability 65%.,"D2 receptor antagonist.
+Also has α-blockade, serotonergic blockade, histaminergic blockade and muscarinic blockade (see previous page for side effect details)
+Haloperidol has the highest chance of causing extra-pyramidal SES.",,,"Elderly – oversedation
+Liver disease
+CVS disease",Typical anti-psychotic of the Butyrophenone class.,,
+HEPARIN,"IV or SC.
+May be given either by intermittent dosing or by continuous infusion.
+NOT IM – risk of haematoma.","Bleeding
+HIT
+This is a systemic hypercoagulable state, occurring in 1-4% of people receiving heparin for a minimum of seven days.
+Surgical patients are at greatest risk.
+Mortality and morbidity is due to thrombotic events (and not to bleeding). Venous thrombus usually occurs, but can be arterial.
+Hence, perform platelet counts – be suspicious if patients on heparin develop new thrombus.
+HIT should be treated by stopping heparin and commencing a direct thrombin inhibitor (e.g. dabigatran)
+Idiosyncratic reactions
+Allergy, alopecia, osteoporosis and mineralocorticoid deficiency.
+ ","Patients with a chance of life-threatening bleeding/active bleeding
+Severe thrombocytopaenia, GI ulcer, intracranial hypertension, severe hypertension, advanced renal and hepatic disease.
+Patients with known allergic reaction (HIT)", ,"Monitor with APTT.
+Measuring factor Xa levels may be helpful", ,"Clotting states –DVT/PE
+Post-surgical/in-hospital prophylaxis.", , ,"Heparin binds to endothelial cells and plasma proteins
+Its activity depends on the natural anticoagulant antithrombin III.
+Antithrombin III inhibits clotting factor proteases, especially thrombin (IIa), IXa and Xa. In the absence of heparin, these reactions are slow, but they are accelerated ~1000x in the presence of heparin.
+Active heparin molecules bind to AT III, causing a conformation change in AT III. This exposes its active site, allowing for more rapid interaction with proteases.
+Binding of heparin with AT III will increase the degradation of factors IIa and Xa especially.
+A side note about LMWH (enoxaparin)
+LMWH works by inhibiting Factor Xa (and not factor IIa and IXa).
+If LMWH is used weight based, it has predictable pharmacokinetics and plasma levels in patients with normal renal function. Therefore, LMWH levels are not commonly measured except in the setting of obesity, renal insufficiency or pregnancy.",,,"Elderly patient
+Renal failure",Indirect thrombin inhibitor,"If major bleeding –cease drug. Specific antidote: protamine.
+Protamine is a very basic, positive charged ion that binds to the negative charge of heparin and inactivates it (chemical antagonist). The stable heparin-protamine complex has no anti-coagulant activity.
+1mg of protamine inactivates 100IU of heparin. Important to avoid excess protamine – itself acts as an anti-coagulant.", 
+HISTAMINE,,,,,,,,,,"Its mechanism of action is to exert its influence by binding to histamine receptors, which are all GPCR. They may increase intracellular cAMP or intracellular Ca2+.
+Appears to play a role in
+Immediate allergic reactions and anaphylaxis
+Gastric acid secretion
+Functions as a neurotransmitter/neuromodulator
+Has a role in immune modulation/chemotaxis of WBCs
+Tissue and organ effects as follows:
+Immune system
+Causes vasodilation and increased permeability of vessels.
+Chemoattractant for WBCs and neutrophils.
+Histamine inhibits the release of lysosome contents, and inhibits some T- and B-cell function.
+CVS effects
+Vasodilation (leading to warmth/flushing/headache)
+Oedema (due to increased capillary permeability)
+Hypotension, and reflex increase in chronotropy
+Histamine has direct inotropic effects on the heart too.
+Respiratory
+Increased bronchial reactivity – bronchoconstriction, especially in asthmatics.
+Neurological system
+Increased nociception
+Increased itch.
+May be related to satiety and weight gain (explains the weight gain when patients are given long term anti-psychotics)
+GIT
+Increased smooth muscle contraction (abdominal pain, diarrhea)
+Increased secretion of gastric acid
+Skin
+Initiates the triple response.","Location of histamine
+Most histamine is sequestered and bound in granules in mast cells and basophils.
+Non mast cell histamine may be found in the brain, where it acts as a neurotransmitter. It is also found in the enterochromaffin-like cell (ECL cells) in gastric mucosa.
+Release of histamine
+Mast cells and basophils release histamine of IgE binds to their surface.
+Complement may also bind to mast cells, releasing histamine.
+It is possible for drugs (e.g. morphine) to release histamine.
+Direct mechanical injury also releases histamine.",,,Biological amine,,
+INDIRECT ACTING CHOLINOMIMETICS (CHOLINESTERASE INHIBITORS),All organophosphates (except echothiophate) are very lipid soluble and therefore can be absorbed through skin/lung/GIT and conjunctiva. They also easily penetrate the CNS.,,,"Quaternary carbamates (e.g. erdrophonium, neostigmine and pyridostigmine) are very ionized and not lipid soluble.
+Tertiary amines (e.g. physiostigmine) may cross the BBB, and are therefore more toxic.
+All organophosphates are very lipid soluble and will penetrate the CNS.",,,"Eye
+Treatment of acute close angle glaucoma.
+ACH-ase inhibitors cause contraction of the ciliary body, therefore allowing increased outflow of aqueous humor. Pilocarpine or physiostigmine may be used to treat ACAG.
+NM junction
+Erdrophonium is used in the diagnosis of myasthenia gravis.
+Pyridostigmine or neostigmine may be used in the long term treatment of MG.
+Neostigmine may also be used to reverse neuromuscular blockade in anaesthesia.
+GIT/GUT
+Post-op ileus/urinary retention
+Others
+Alzheimer’s disease (donepezil, rivastigmine)",,,"These drugs inhibit acetylcholinesterase and bytyrylcholinesterase, leading to increased acetylcholine at cholinoreceptors.
+Quaternary alcohols (e.g. erdrophonium) bind electrostatically to ACh-ase. Their action is short-lived (2-10 minutes) due to the lack of covalent bonds.
+Carbamate esters (e.g. neostigmine) have one covalent bond. The hydrolysis process takes correspondingly longer (30 minutes to 6 hours)
+The organophosphates will form a covalent bond that is initially already very stable, and can further undergo a second step called “aging” that further stabilizes the bond.
+Pralidoxime (a nucleophile) may be effective as an antidote against organophosphate poisoning if given before the aging process. It acts as a “cholinesterase regenerator”.
+Organ system effects
+CNS
+Increased excitability, leading to convulsions, then coma and respiratory arrest.
+CVS
+Increased parasympathetic transmission – bradycardia (negative inotropy, dromotropy and chronotropy)
+Effect on sympathetic ganglia may cause initial hypertension, but toxic doses cause marked bradycardia, reduced cardiac output and hypotension.
+Neuromuscular blockade
+Fasciculations, fibrillations and a depolarizing blockade (akin to Sux) may occur at toxic doses.
+Mnemonic for cholinergic symptoms is SLUDGE-M (salivation, lacrimation, urination, defecation, GI upset, emesis and miosis)
+The duration of action of cholinesterase inhibiting drugs is as follows:
+Drug
+Duration of action
+Alcohols (e.g. erdrophonium)
+5-15 minutes
+Neostigmine
+0.5-2 hours
+Physiostigmine
+0.5-2 hours
+Pyridostigmine
+3-6 hours
+Demeconium
+4-6 hours
+Ambenonium
+4-8 hours
+Organophosphates
+100 hours",,,,"Cholinesterase inhibitors are of three groups:
+Alcohols and quaternary ammonium groups (e.g. erdrophonium)
+Carbamates (e.g. neostigmine)
+Organophosphates (e.g. echothiophate)","Patient usually present with SLUDGE-M symptoms, then convulsions, and then NM blockade.
+Treatment is as follows:
+Good supportive care
+Decontamination (Shower, remove clothes, etc.)
+Specific antidotes are atropine and pralidoxime. BZDs for seizure.
+Intubation and ventilation for NM blockade
+ ",
+KETAMINE,"IV or IM.
+Can be given as bolus/infusion","Salivation/bronchorrhoea, leading to laryngospasm
+Emergence phenomena
+RICP",Head injury and RICP are absolute CI.,"Very lipid soluble
+Only IV anaesthetic agent that has low protein binding
+Large Vd – 3L/kg","1-2mg/kg if induction
+Pain dose is 0.1mg/kg, infusion is 0.1mg-0.3mg/kg
+4mg/kg IM if procedural sedation",Urine,"Procedural sedation (Very useful in children – give IM)
+Intravenous anaesthetic for induction
+Pain management",,"Metabolised in the liver to norketamine (an active metabolite) and then conjugated to water soluble metabolites and excreted in the urine.
+Distribution T ½: 11-16 minutes
+Elimination T ½ : 2-4 hours
+Duration of action: 5-10 minutes","NMDA receptor antagonist. It is the only IV anaesthetic agent that has significant analgesic properties
+Organ system effects as follows:
+CNS
+It is a cerebral vasodilator and tends to increase cerebral blood flow and cerebral metabolic rate. Therefore, it is contra-indicated in RICP.
+May be used for status epilepticus if other means are unsuccessful.
+Emergence phenomenon – tends to be less severe and of lower incidence in children. Premedication with BZD may decrease incidence.
+CVS
+It produces transient by significant centrally mediated stimulation, therefore increasing HR and cardiac output.
+It is thought to be a direct myocardial depressant, and this property may become apparent in the patients that are critically ill and have limited ability to increase their sympathetic drive.
+Respiratory
+Transient apnoea and hypoventilation if large dose given rapidly.
+Importantly – causes lacrimation and salivation. May cause laryngospasm in children.
+Relaxes bronchial s/m: consider in severe asthma
+If used as a single drug, the respiratory response to hypoxia and hypercapnia is NOT affected",,,,Phencyclidine derivative,,
+LITHIUM,"PO
+Absorption is virtually complete in 6-8 hours.","Neurological
+Very common. Tremor, ataxia and dysarthria are common. May also cause new psychiatric disturbances (mental confusion)
+Endocrinology
+Hypothyroidism
+Renal
+Nephrogenic DI à causes polyuria and polydipsia
+Cardiac
+Depresses SA node (CI in SSS and tachy-brady syndrome)
+Pregnancy and post-partum
+Lithium causes Ebstein’s anomaly
+May also cross breast milk – results in lethargy, poor suck and poor reflexes.
+Idiosyncratic
+Acne, leukocytosis.",,"Initially distributed in TBW, with Vd ~0.5L/kg, rising to 0.7 to 0.9L/kg.
+No protein binding, but some sequestration in bone.",,"Virtually entirely in urine. Clearance is ~20% of creatinine clearance.
+Long T ½ – about 20 hours.","Bipolar affective disorder (especially manic phase)
+Depressive disorders
+Schizophrenia","Thiazide diuretics reduce clearance of lithium by 25%.
+Clearance also reduced by NSAIDs.
+Use of anti-psychotics may produce more severe extrapyramidal symptoms with lithium.",Nil,"Functions by inhibiting IP3 and GSK-3, which is a multifunctional protein kinase.
+Overall acts to reduce α-adrenergic and muscarinic transmission.
+Also inhibits adenylyl cyclase and second messenger systems, therefore causing hypothyroidism and Nephrogenic DI.",,,Pregnancy – renal clearance increases during pregnancy and clearance decreases post-partum.,Monovalent cation,"Therapeutic ODs are more common than intentional/accidental OD, due to changes in the patient’s status (that is ,decreased serum Na, increased diuretic use or fluctuating renal function)
+Treatment is dialysis or supportive care.",
+MACROLIDE ANTIBIOTICS, ,"GIT side effects are common (remember that erythromycin is used as a prokinetic in the ICU setting) – hence, nausea, vomiting and diarrhea are common.
+Acute cholestatic hepatitis (hypersensitivity reaction). Characterized by fever, jaundice and impaired LFTs.",, , ,"Mainly in faeces and in bile. Minimal in urine. As such, there is no need for dose adjustment in renal failure.",,"It is a strong inhibitor of the CYP45- system, and therefore increases levels of drugs such as warfarin, phenytoin and theophylline.
+It also increases the serum concentration of digoxin by increasing its oral bioavailability.","Metabolised in liver to inactive products.
+It is a strong inhibitor of CYP450 enzymes and therefore increases the levels of drugs like warfarin and theophylline.","Functions by inhibition of protein synthesis by binding to the 50S ribosomal RNA
+Spectrum of activity is against Gram+ve, Gram-ve and intracellular organisms.
+Gram+ve: staph, strep, pneumococci and cornebacterium
+Gram-ve: Neisseria, bordatella, rickettsia and campylobacter
+Intracellular: Mycoplasma, chlamydia, listeria, legionella and certain mycobacterium.
+As such, clinical indications as follows:
+Respiratory infections
+Community acquired pneumonia
+Chlamydial infections
+Note that these macrolides may be both bacteriostatic and bactericidal, depending on concentration of drug and organism susceptibility.
+Resistance is generally plasmid encoded. Important to remember that cross resistance is complete. The following patterns of resistance are identified:
+Reduced entry into cell
+Increased efflux of drug
+Modification of binding site at ribosome
+Production of esterases that hydrolyze macrolides.",, ,,"These antibiotics contain a macrocyclic lactone ring, e.g. erythromycin, azithromycin and clarithromycin.", , 
+METFORMIN,,,,,,,,,,"Main action is to reduce hepatic gluconeogenesis through activation of AMP-activated protein kinase.
+Importantly – this glucose lowering action does not depend on functioning pancreatic β-cells and therefore produces less hypoglycaemia.
+It is first line in treatment of T2DM because it is an insulin sparing agent and does not increase body weight or provoke hypoglycaemia.
+Because it inhibits hepatic gluconeogenesis, it therefore impairs hepatic metabolism of lactic acid.
+Major toxicity is severe lactic acidosis (dose related complication)
+Contraindications as follows:
+Renal disease
+Hepatic disease
+Any condition leading to hypoxia (e.g. CCF) due to accumulation of lactic acid.","Metformin is not plasma protein bound nor metabolized – it is excreted as the active compound by the kidney.
+T ½ of 1.5 to 3 hours.",,,Biguanide,,
+METHADONE,"PO, can also be given IV, SC, intrathecal and rectal.",Hepatic impairment may lead to accumulation and prolonged QT., ,"Well absorbed from the GIT, and has high bioavailability.", ,"Renal
+ ", , ,"Hepatic – via CYP 3A4 and CYP 2D6 pathways.
+It has a long T ½ – 25 to 50 hours. It is excreted in the urine and does not have any active metabolites.","Methadone is active at several receptors.
+It is a potent µ receptor agonist
+It blocks the NMDA receptor and blocks monoaminergic re-uptake.
+As such, it has several useful indications:
+Difficult to treat pain (E.g. cancer, neuropathic). Used based on the concept of opioid rotation.
+Useful in detoxification of addictions – this is due to its good oral bioavailability and long T ½. It produces milder (but more prolonged) withdrawal signs and symptoms.",, , , , , 
+METHOXYFLURANE/PENTHRANE,,"CNS (common) – drowsiness, disorientation, coughing, dislike of odor and headache.
+Less common – hypotension, bradycardia and nephrotoxicity
+Rare – Respiratory distress, bronchospasm, laryngospasm, malignant hyperthermia, hepatitis.","Renal failure
+Previous hypersensitivity to fluorinated anaesthetics
+CVS instability
+Respiratory depression
+Severe head injury or LoC
+Inducing anaesthesia",,3ml at a time via Penthrox inhaler. Maximum of 6ml/day.,,"Prehospital analgesia in the conscious and haemodynamically stable patient.
+Relief of pain in conscious patients undergoing short procedures (e.g. dressing change)",Tetracyclines – fatal nephrotoxicity,,"Powerful analgesic at sub-anaesthetic doses.
+Organ system effects
+CVS effects
+Has myocardial depressant properties: may cause bradycardia, hypotension and reduced contractility.","Very soluble agent
+Blood gas partition coefficient of 10-14. Also very soluble in fatty tissues.
+Hence, very slow onset and offset if used as induction agent (and therefore should not be used as such).
+Metabolism
+50-70% metabolised in the liver to free fluoride and oxalic acid à causes dose related nephrotoxicity
+20% excreted in air.
+30% excreted in urine.",,"Elderly patients or those with DM à increased risk of nephrotoxicity
+Nor for daily use",Volatile fluorinated hydrocarbon anaesthetic agent,,
+METHYLXANTHINES,,"Theophylline has a very small therapeutic window.
+Bronchodilation occurs at 5-20mg/L.
+At 15mg/L, nausea, vomiting, anorexia and nervousness occurs.
+Higher levels (>40mg/L) may precipitate seizures and arrhythmias. Importantly, note that seizures and arrhythmias may occur without any warning signs.",,600microg of theophylline/kg of body weight will increase serum theophylline by 1 microg/ml. Serum concentration of 10-20microg/ml is needed for smooth muscle relaxation.,,Urine,Bronchospasm,"Enzyme inhibitors (e.g. erythromycin, cimetidine and propranolol) may increase theophylline levels.
+Enzyme inducers (e.g. phenytoin, barbiturates and smoking) may decrease levels.","Hepatic
+Enzyme inhibitors (e.g. cimetidine and amiodarone) will dramatically increase its level.
+Enzyme inducers (e.g. smoking, barbiturates) will dramatically decrease its level.
+ ","Methylxanthines act by inhibition of phosphodiesterase (several different isoforms). This leads to increased cAMP, and therefore relaxation of smooth muscle, stimulation of cardiac cells and decreased activity of inflammatory cells.
+Methylxanthines may also inhibit adenosine receptors (explains why adenosine is less effective in the presence of theophylline)
+Of all the methylxanthines, theophylline is the most selective in its smooth muscle effects.
+Organ system effects
+Smooth muscle
+Bronchodilation (used in severe asthma). No tolerance will develop.
+May also limit histamine release from lung tissue.
+The dose used for smooth muscle relaxation is limited by adverse effects in CNS.
+CNS effects
+Increased arousal
+High doses à seizures and death
+CVS
+Positive inotropy and chronotropy (due to increased cAMP)
+Other effects
+May improve skeletal muscle contractility (improved diaphragm strength in COPD)
+Weak diuretic effect (not significant clinically)
+Stimulates gastric acid production",,,,,"Acute toxicity will cause symptoms as described above.
+Theophylline toxicity also has increased β2-stimulation – hypokalemia, hyperglycaemia and mild metabolic acidosis may occur.
+Chronic toxicity will cause milder GIT symptoms, but dysrhythmias and seizures can occur at lower levels of drug than in acute OD.
+Treatment is as follows:
+Good supportive care – attention to A, B, C and D.
+Specific antidotes as follows:
+Β-Blockers (e.g. esmolol) for dysrhythmias
+Hypotension (due to over β2-stimulation) requires α-agonist agents (e.g. noradrenaline)
+BZDs/barbiturates for seizures (note that phenytoin may worsen seizures, and other anti-convulsants usually do not work)
+Enhanced elimination
+Gastric lavage if significant quantities of sustained release preparations have been taken.
+Whole bowel irrigation can be considered.
+Multidose activated charcoal may help bind theophylline.
+Haemodialysis is an option.",
+METOCLOPRAMIDE,,,,,,,,,,"Dopamine (D2 receptor) antagonist)
+Hence, used as a prokinetic
+Increased esophageal peristaltic amplitude
+Increased lower esophageal sphincter pressure
+Enhanced gastric emptying.
+No effect on small intestine/colonic activity
+Indications
+GORD
+Pro-kinetic in ICU
+Anti-emetic (due to central D2 receptor blockade)
+However, because of its D2 receptor blockade, it has CNS effects
+Extra-pyramidal side effects
+Tardive dyskinesia
+Elevated prolactin levels will cause galactorrhea, impotence and gynecomastia.",,,, ,,
+METRONIDAZOLE,"Well absorbed PO, but may be given IV or PR if necessary.
+Low protein binding (10-20%)","It is an inhibitor of CYP450 enzymes and may increase the activity of warfarin.
+It has a disulfiram like effect and inhibits aldehyde dehydrogenase. Avoid taking with alcohol.
+Other reactions include nausea, diarrhea, stomatitis and peripheral neuropathy",,"Widely distributed, and does penetrate the CSF", , ,,,Hepatic – may accumulate in hepatic failure and dose reduction is required.,"Metronidazole is taken up by anaerobes and then it is reduced to ferredoxin. This reduction will produce a toxic metabolite that kills anaerobes and protozoa.
+Spectrum of activity is against anaerobic bacteria (e.g. clostridium and bacteroides) and sensitive protozoa (amebiasis).
+Therefore, indications as follows:
+Mixed intra-abdominal infections (in combination with other antibiotics)
+C.difficile colitis
+Bacterial vaginitis (where trichomonas is suspected – a single 2g dose may be enough)
+Amebiasis
+Giardiasis
+Brain abscess",, ,,A nitro-imidazole anti-protozoan drug, , 
+MONOAMINE OXIDASE INHIBITORS,PO,"Weight gain (serotonergic effect) and orthostatic hypotension
+Amphetamine like effects – activation, insomnia and restlessness
+Discontinuation syndrome may occur – psychosis, excitement",Concurrent use of TCA and SSRI are absolute contra-indications.,,,,,"SSRI/TCA
+Life-threatening serotonin syndrome. Note that fluoxetine must be ceased 4 weeks prior to commencing a MAO-I and MAO-I must be ceased 2 weeks prior to commencing SSRI.
+Sympathomimetics
+Overall increased activity, e.g. ephedrine in over the counter cold preparations.
+Foods rich in tyramine
+Cheese, soy products, certain sausages (may get malignant hypertension)","Extensive first pass effect
+Low bioavailability","Binds to MAO-A and MAO-B
+This increases the levels of noradrenaline, adrenaline and serotonin at the CNS synapse, by reducing their metabolism.
+It also reduces the metabolism of tyramine (tyramine is important because it acts as a catecholamine releasing agent)
+MAO-Is also resemble amphetamine and therefore may have CNS stimulating effects.",,,,"Examples of MAO-I: moclobemide, isocarboxacid","MAO-I overdose leads to increased adrenergic and serotonergic activity
+Autonomic instability
+Psychosis
+Confusion, delirium
+ 
+Treatment is with cardiac monitoring and good supportive care.",
+MORPHINE (pharmacokinetic profile),"Can be given PO, IV, SC, Intra-thecal, PR",,,"Rapidly leaves blood compartment and accumulates in highly perfused tissues – brain, heart, lung, kidney and spleen.",,Urinary,,,"Hepatic – glucuronidation to morphine-3-glucuronide. 10% converted to morphine-6-glucuronide.
+Readily excreted in kidneys.
+Noted that M3G and M6G are very polar and tend not to contribute significantly to CNS effects if used acutely. However, they do accumulate in renal failure, if large doses are given or if used over prolonged period.
+M3G may cause seizures.
+M6G may cause prolonged opioid action.",As above.,,Note that most opioids tend to have the same pharmacodynamic profile.,,"Phenantherene opioid (morphine, hydromorphone and oxymorphone)",,
+NA VALPROATE,"PO, IV","Neurological SES – ataxia, fine tremor, coma and cerebral oedema in major OD.
+ ",,"Bioavailability of 80%
+It is very highly bound to plasma protein and very ionized – the Vd is essentially confined to extracellular water (0.15L/kg). This makes it a dialyzable toxin.",,Urine,"GTCS
+Absence seizures (the drug of choice)
+Useful in controlling myoclonic seizures
+Can be used IV to treat status epilepticus
+Bipolar disorder
+Migraine prophylaxis","Na Valproate is an enzyme inhibitor – in increases the level of phenytoin and carbamazepine, as well as phenobarbital.
+Because it is highly bound to plasma proteins, it displaces phenytoin from its binding site.","Hepatic enzymes.
+T ½ ~15 hours.","Works by blocking Na+ current and therefore, probably blocking sustained high frequency repetitive firing of neurons.
+May reduce NMDA receptor excitation
+May also increase GABA levels.
+All the above act to stabilize membrane potential and reduce seizure activity.",,,,A carboxylic acid,"Idiosyncratic reaction – severe hepatotoxicity (especially in the very young patients, or if patient already has pre-existing liver disease, and also if there are other hepatotoxins).
+N/V, GIT upset
+Thrombocytopaenia
+Birth defects – spina bifida/CVS, orofacial abnormality",
+NALOXONE,IV. IM may be used to prolonged duration of action., , ,"Localised in highly perfused tissues.
+Short T ½ – 60 to 90 minutes.","0.1 to 0.4 mg, repeat as necessary. Also may be given IM.",Renal,"Reverses opioid toxicity
+Diagnostic tool", ,Hepatic,"High affinity for the µ receptor. Limited affinity for κ and δ receptors.
+When given alone (i.e. no agonist present) the drug is inert.
+When given with an agonist, it reverses the opioid effect completely in 1-3 minutes.
+Respirations, level of consciousness, pupil size and awareness of pain are normalized.
+No tolerance nor withdrawal will develop.",, ,"Short T ½ – therefore, patient requires close monitoring and may need repeated doses.
+Can precipitate withdrawal symptoms.
+May precipitate APO due to sympathetic surge.",Pure competitive antagonist at the opioid receptor., , 
+NITROUS OXIDE,,"Prolonged exposure (>2 to 4 hours) will lead to inactivation of vitamin B12
+Increased risk of megaloblastosis and bone marrow suppression.
+Diffusion hypoxia
+Occurs due to large amounts of N2O diffuse rapidly back to the alveoli from the blood compartment at the end of the case.
+Usually present after long cases and if high concentration of N2O used.
+ ","Severe pulmonary hypertension
+Avoid in pulmonary oedema/severe mitral stenosis
+Pressure effect/trapped gas syndromes
+Pneumothorax/bowel obstruction/air embolus/severe head injury (increased risk of pneumocranium)
+Acute asthma and severe COAD
+Patients that require >50% FiO2 to maintain adequate SpO2",,"Mask inhalation from blue cylinder.
+Use 50:50 mix of O2 and N2O (no diffusion hypoxia). Can go up to 30:70 mix of O2 and N2O in short cases.",,"Procedural sedation in ED as single agent (performing reduction/manipulation/suturing)
+Adjunct to other anaesthetic agents (e.g. lignocaine)",,,"Acts on numerous receptors in CNS and may interact with endogenous opioid receptors to provide pain relief.
+Organ system effects
+CVS
+Has myocardial depressant effect in dose dependent fashion.
+Reduced CO, SV and MAP but increased TPR (helps compensate for the reduction in CO)
+Effect most marked in patients with limited CVS reserve.
+Respiratory
+Increased pulmonary vascular resistance
+No significant respiratory depression/loss of airway reflexes.
+CNS
+In addition to analgesic properties, also has amnestic properties.","Poor solubility in both blood and tissues (blood-gas partition coefficient of 0.47).
+Therefore arterial tension is rapidly reached and there is rapid equilibrium with brain tissues. Also, rapid elimination by the lungs after discontinuation.
+Hence, rapid onset of action and rapid offset + recovery.
+Probably not metabolized by the human body.
+Low potency (MAC >100%) and cannot be used as a single agent for induction.",,,Gaseous anaesthetic agent,"If diffusion hypoxia is present à use 100% oxygen for 20-30 minutes to wash N2O out.
+ ",
+NON-DEPOLARISING SKELETAL MUSCLE RELAXANTS,IV only – it is inactive orally for all agents.,"As stated above, in pharmacodynamic section","Previous hypersensitivity reaction
+Unmonitored/non-resuscitation settings
+Inadequate personnel
+Known difficult intubation/ventilation","All agents are highly polar/ionized, and therefore not strongly bound in peripheral tissues.
+All agents have very small Vd.","Rocuronium
+0.6mg/kg as induction
+0.1-0.2mg/kg every 20-30 minutes for maintenance
+0.9mg/kg for modified RSI","Rocuronium/vecuronium – hepatic/biliary excretion
+Pancuronium – renal","Facilitate endotracheal intubation
+Note that rocuronium may be used in modified RSI setting by giving a large dose – 0.9mg/kg, which will have an onset time of 60-120s.
+Maintenance of paralysis to aid ventilation/transport of patient.
+In penetrating eye injuries where suxemethonium is contraindicated,
+May be used in ICU setting to prevent shivering when therapeutic hypothermia protocol is being used.",Aminoglycosides (e.g. Gentamicin) will enhance NM blockade,"The duration of neuromuscular blockade is strongly correlated with elimination half-life. The agents all have different mechanisms of metabolism:
+Atracurium, in addition to hepatic metabolism, is inactivated by spontaneous breakdown (Hoffmann elimination). The main breakdown product is laudanosine. Laudanosine is slowly metabolized by the liver, has long elimination T ½ (150 minutes) and crosses the BBB. At high levels, it will cause seizures and increase the volatile anesthetic requirement.
+Cisatracurium is metabolized via Hoffmann elimination as well, but depends less on hepatic metabolism, produces less laudanosine and has less chance of releasing histamine. These features make it overall a better drug than atracurium.
+The steroid drugs, rocuronium and vecuronium undergo hepatic metabolism and biliary excretion. This means their duration of action is shorter (25-30 minutes). They are metabolized to 3-hydroxy, 17-hydroxy or 3, 17-dihydroxy compounds. The 3-hydroxy compounds have longer half-lives and are active metabolites. They may accumulate and cause prolonged paralysis.
+Pancuronium is mainly dependent on renal excretion (80% excreted renally). This means it has the longest duration of action (>35 minutes)
+[One application of the above is that cisatracurium is used for prolonged paralysis in ICU, and rocuronium and vecuronium are not]","Mechanism of action
+Both groups mainly act by competitive antagonism of ACh at the nicotinic receptor.
+Note that of all the non-depolarising agents, rocuronium is the least potent, having the fastest onset and fastest offset.
+Larger doses will actually allow the drug to enter the pore of the channel, producing a stronger blockade. This reduces the ability of acetylcholinesterase inhibitors to antagonize the effects. Larger doses may also interfere with pre-junctional release of ACh.
+Specific organ effects
+Rocuronium, vecuronium and cisatracurium are the most cardiac stable, with little, if any, CVS side effects.
+Tubocurarine and atracurium may cause brief hypotension due to histamine release.
+Pancuronium is associated with tachycardia due to a vagolytic response. It increases cardiac output but does not change systemic vascular resistance.",,,"Need monitored setting/experienced clinicians to use
+Dose according to lean muscle mass in obese patients
+Specific disease conditions:
+Advanced age and myasthenia gravis will prolong action of drug
+Burns will decrease action of drug","Separated into two distinct groups – isoquinoline and steroid derivatives:
+Isoquinoline – Atracurium, cisatracurium, mivacurium and tubocurarine
+Steroid – Rocuronium, Vecuronium and Pancuronium","Block may be reversed by cholinesterase inhibitors, e.g. neostigmine or erdrophonium.
+Rocuronium has a pharmacological antagonist – sugammadex",
+NSAIDs,"PO. Some may be given IV or IM.
+Importantly, food does not lower its bioavailability.","Toxic effects
+Mainly GIT (gastritis, nausea/vomiting, ulcers and bleeding)
+Renal – AKI (probably secondary to altered renal blood flow due to reduced prostaglandin synthesis)
+Hepatic – abnormal LFTs and rarely, hepatic failure.
+CNS – tinnitus, dizziness and headaches.", ,"All are weak acids and therefore absorbed well in the GIT.
+They are all highly protein bound (>98% to albumin).
+They are all found in high concentration in synovial fluids.", ,Renal, ,"Lithium – may increase lithium levels secondary to reducing renal blood flow.
+Increased risk of bleeding with other anticoagulants.","Hepatic, by CYP systems and phase 2 reactions.","NSAIDs function by inhibiting COX and therefore leading to less prostaglandin synthesis.
+Aspirin irreversibly inhibits COX.
+Non-COX selective NSAIDs reversibly inhibit COX.
+Selective COX-2 NSAIDs will not have anti-platelet function.
+Comparative effects as follows:
+COX-2 drugs have less GI effects, but increased oedema and HTN.
+NSAIDs overall will decrease the sensitivity of blood vessels to bradykinin and histamine, affect lymphokine production from T-cells and reverse vasodilation associated with inflammation.
+All NSAIDs will have analgesic/anti-pyretic and anti-inflammatory effects.
+All NSAIDs (except the COX-2 specific ones) have anti-platelet activity.
+Some NSAIDs (including aspirin) are thought to reduce colon cancer risk.
+With respect to GI effects:
+Ibuprofen thought to have the least GIT effects.
+Piroxicam has 9x the GIT effects.
+Aspirin has double the GIT effects.
+Indomethacin may cause pancreatitis.",, , , ,"Good supportive care
+ ", 
+OPIOIDS,,"Extension of their organ system effects
+CNS – sedation
+Respiratory – respiratory depression
+CVS – bradycardia/hypotension
+Certain opioids may precipitate seizures
+Tolerance, dependence and addiction", ,,,,"Pain
+Useful in biliary and renal colic
+May be useful in labour
+Acute pulmonary oedema
+Reduces pre-load and afterload.
+Reduces the subjective sensation of dyspnea
+Anaesthetic
+Fentanyl may be used as induction agent (either alone, or in conjunction with BZD). Especially useful in patients with unstable haemodynamics.
+Other indications are:
+Cough
+Anti-diarrhoeal
+Pethidine may be used to break rigors","Sedative hypnotics
+Added CNS and respiratory
+Anti-psychotics
+Additive anti-muscarinic and alpha-blocking effects, leading to tachycardia, hypotension and increased sedation
+Concurrent use of MAO-I is a relative contraindication
+Hyper-pyrexial coma, hypertension",,"Opioids produce analgesia by binding to specific opioid receptors (µ, κ and δ) that are located in the brain and spinal cord regions involved in transmission and modulation of pain.
+These receptors are all GPCR.
+The main cellular effect of opioids is to
+Close voltage gated Ca2+ channels in pre-synaptic nerve terminals, therefore reducing transmitter release. Reduced Ca2+ entry leads to reduced glutamate, reduced amino acid levels as well as NA, serotonin and ACh from nociceptive terminals.
+Open K+ channels, therefore causing hyperpolarization and inhibiting post-synaptic neurons.
+Table of opioid receptors and their effects (important)
+Opioid receptor
+Effect
+µ
+Supraspinal and spinal anaesthesia
+Respiratory depression
+Constipation
+Euphoria
+Sedation
+Miosis
+Modulation of neurotransmitter release
+Increased GH and prolactin secretion
+Κ
+Supraspinal and spinal anaesthesia
+Diuresis
+Sedation
+Miosis
+Dysphoria
+Slower GIT transit time
+Δ
+Supraspinal and spinal anaesthesia
+Modulation of neurotransmitter release
+In terms of pain modulation, opioids are thought to act on both ascending and descending pathways.
+Ascending: may act directly on inflamed tissues, on the dorsal horn and in the thalamus.
+Descending: act my activating inhibitory nerves and therefore inhibiting pain transmission. May act on the periaqueductal gray and medulla in order to enhance inhibition to the dorsal horn.
+Tolerance and dependence are features of opioid drugs
+Frequently administered doses lead to an increase in the dose necessary to produce a similar effect: this is tolerance.
+Dependence is defined as a withdrawal syndrome that is seen when drug is ceased/antagonist is applied.
+The withdrawal/dependence mechanism may be due to the following:
+Upregulation of cAMP system.
+Receptor recycling, where the failure to induce endocytosis of the µ receptor is an important concept in dependence (Maintenance of normal receptor sensitivity requires reactivation by recycling)
+Note that importantly, tolerance to convulsions, miosis or constipation will not occur.
+Organ system effects
+CNS
+Analgesia
+Euphoria
+Sedation
+Sedation usually manifests as drowsiness and clouding of mentation.
+Additive effect with other anxiolytics/sedatives (e.g. BZD). Care should be taken when used.
+Elderly patients are more susceptible to opioid sedation.
+Sedation is thought to be more marked with morphine than with fentanyl/pethidine.
+CVS
+May cause bradycardia
+Hypotension may result if the CVS system is already under stress. This is probably due to vasodilation secondary to histamine release. Therefore, take care in the hypovolemic patient.
+Remember that opioids will increase PaCO2 à cerebral vasodilation à RICP.
+Respiratory
+Significant respiratory depression is seen, mainly by depressing the medullary sensitivity to CO2. There is a rise in PaCO2.
+This respiratory depression is poorly tolerated in those with limited reserve, namely severe COPD, Cor Pulmonale, severe asthmatics and RICP.
+Cough suppression may occur – lead to airway obstruction/atelectasis.
+Other system effects
+GIT – constipation
+Biliary – causes biliary smooth muscle contraction: may make biliary colic worse
+Skin – pruritus, flushing
+Nausea, vomiting and miosis are also seen.
+ ",, ,"Caution in the elderly (increased sensitivity)
+Renal/hepatic disease (morphine and its metabolites may accumulate)
+Limited respiratory reserve
+Limited cardiovascular reserve
+Head injured patients
+Pregnancy – crosses the placenta and may precipitate withdrawal states in the baby.
+Caution with using naloxone + full agonist – may precipitate withdrawal.", ,,
+PARACETAMOL,"Well absorbed from the GIT.
+Peak plasma levels 30-60 minutes.
+It is slightly protein bound.", , ,T ½ of 2-3 hours. This is increased in liver disease to >6 hours, ,Renal, , ,"Hepatic
+>95% undergoes glucuronidation and sulfation.
+5% will undergo metabolism via CYP 450 mechanisms (Phase 1 reaction – hydroxylation) to form NAPQI. NAPQI is toxic, but usually detoxified by glutathione.",Functions as a COX-1 and COX-2 inhibitor. No anti-inflammatory properties.,, , , ,"A dose of >200mg/kg or >7g in adults is considered to be potentially toxic. The mechanism is as follows:
+Paracetamol normally undergoes glucuronidation and sulfation.
+In ODs à these pathways are saturated and then paracetamol is broken down by a Phase 1 reaction.
+More NAPQI is formed à this consumes glutathione (GSH). Once GSH is depleted, NAPQI then becomes hepatotoxic.
+Signs and symptoms
+Initially, nausea/vomiting and abdominal pain.
+Then signs of hepatic failure – raised transaminases and raised INR.
+Hepatic encephalopathy and death.
+Risk of toxicity is based on paracetamol nomogram.
+Treatment – NAC. It functions either as a sulfhydryl donor in order to inactivate NAPQI, or as a glutathione substitute.
+Liver transplant in severe cases.", 
+PENICILLINS,"PO or IV
+Note that all penicillins (Except amoxicillin) should be given 1-2 hours before/after meals to minimize binding to food proteins and acid inactivation.
+Probenecid (A drug that inhibits secretion of weak acids) may be used to prolong half-life.","Hypersensitivity reactions
+All penicillins are cross reactive. Allergy is due to the degradation products of penicillin.
+Note that a prior history of allergy is quite unreliable.
+Rarely, a patient may develop interstitial nephritis, haemolytic anaemia or a vasculitis.
+In renal failure, high doses of penicillin may cause seizures.
+Nafcillin is associated with neutropenia.
+Oxacillin is associated with hepatitis.
+Methicillin causes interstitial nephritis
+Large doses of penicillins may cause GIT upset – nausea, vomiting and diarrhea.", ,"Penicillin concentration in most tissues equals that of serum.
+Penicillin is also secreted in saliva and breast milk to levels ~3-15% that of serum.
+However, important to remember that penetration to eye, prostate and CNS is poor.
+Penetration to CNS is improved in meningitis.", ,"Mainly by kidneys. 10% by glomerular filtration and 90% by tubular secretion.
+The T ½ is 30-60 minutes, but may extend to 10 hours in renal failure. Hence, it is important to adjust the dose.
+However, the anti-staph penicillins are cleared by biliary secretion and therefore do not need dose adjustments.
+Overall, penicillin clearance is poorer in the newborn.",As above, , ,"They function as cell wall inhibitors by interfering with the transpeptidation reaction of bacterial cell wall synthesis.
+Bacterial cell wall is made up of peptidoglycan, whose synthesis is catalysed by the enzyme penicillin binding protein (PBP)
+PBP is bound covalently by the β-lactam ring, and thus the bacterial cell wall breaks down and the bacteria dies.
+Note that because of its mechanism of action, β-lactamase antibiotics only kill bacteria that are actively dividing and generating cell wall.
+Resistance
+Four basic mechanisms
+Producing β-lactamase (most common)
+Modifying the PBP
+Impaired penetration of drug to PBP
+Drug efflux.
+Note that modifying the target PBP is the main mechanism of resistance in MRSA. The PBP has a very low affinity for penicillin, and are only inhibited at high, clinically unachievable concentrations.
+Impaired penetration of antibiotic to PBP only occurs in Gram-ve bacteria due to their impermeable outer cell wall membrane.
+Efflux pumps may be present in Gram-ve bacteria too.
+Clinical indications
+Penicillins: streptococci, meningococci, staph (non-β-lactamase producing staph), treponema pallidum and spirochetes (syphilis), clostridium spp., actinomyces and other GPR and non-β-lactamase producing GNB.
+Anti-staph penicillins: β-lactamase producing staph (but note that the non-β-lactamase producing staphs and streps are also susceptible). Importantly, enterococci, listeria (GPR) and MRSA are all resistant.
+Extended spectrum penicillins
+These penicillins have greater Gram-ve cover due to increased ability to penetrate the outer cell membrane.
+Amoxycillin/ampicillin is especially useful in treating respiratory tract infections – sinusitis, otitis and LRTIs.
+Ticarcillin and piperacillin are effective against GNRs – Klebsiella and Pseudomonas.
+Note that usually a penicillin is combined with an aminoglycoside or a fluroquinolone in order to treat Pseudomonas infections.
+Penicillins may also be combined with a β-lactamase inhibitor to extend the spectrum to cover β-lactamase producing staph and β-lactamase producing GNB.",, , ,"Penicillins are thiazolidine rings attached to a β-lactam ring.
+They can be classified into three groups based on function:
+Penicillins (e.g. penicillin G)
+Effective against GPC, GNC, GPR but NOT GNR.
+Very susceptible to β-lactamases.
+Anti-staphylococcal penicillins (flucloxacillin, oxacillin, diclox, nafcillin)
+Resistant to staphylococcal β-lactamase
+Active against staph and strep, but not against enterococci, anaerobic bacteria, GNC and GNRs.
+Extended spectrum penicillins (amoxicillin, piperacillin and ticarcillin)
+Effective against GPC, GNC, GPR and GNR.
+Susceptible to β-lactamases.", , 
+PETHIDINE (pharmacokinetic profile),,,,,,Renal,,,"Hepatic
+Importantly, pethidine has an active metabolite known as norpethidine that accumulates in renal failure. This metabolite causes seizures.",As above,,,,Phenylpeperidine,,
+PHENOTHIAZINES,"PO, IV, IM",As above,,"Very lipid soluble drugs
+Strongly protein bound (~99%) and very large Vd à 7L/kg. They overall have longer clinical duration than expected for T ½.",,Urine,"Initially designed to treat psychotic episodes, mania and psychotic depression
+Other indications as follows:
+Prochlorperazine (stemetil): anti-emetic and anti-vertigo
+Promethazine (Phenergan): allergic reaction
+Chlorpromazine (largactil): headaches","Use with other anti-psychotics or other CNS depressants may potentiate effects.
+Enzyme inducers, e.g. phenobarbitone or phenytoin may reduce its effects.","Usually metabolized by liver CYP 450 enzymes and excreted by the urine.
+Bioavailability tends to be low (chlorpromazine and thioridazine have bioavailability of only 25%)
+Enzyme inhibitors (cimetidine/amiodarone/ketoconazole) may interfere with their metabolism.
+At therapeutic doses, anti-psychotics neither induce nor inhibit liver enzymes.","The main efficacy of the phenothiazines is due to D2 receptor blockade. However, these drugs are dirty drugs, and therefore have the following:
+Α-blockade
+Muscarinic blockade
+H1 receptor blockade
+5-HT2 blockade
+Its other effects are due to blockade of other channels:
+Receptor
+Effect
+Alpha blockade
+Orthostatic hypotension (most important)
+Impotence
+Failure to ejaculate
+Note that Chlorpromazine (largactil) has the highest affinity for alpha receptors and therefore most likely to cause hypotension.
+Muscarinic blockade
+Failure of accommodation
+Confusional state
+Dry mouth/no sweating
+Urinary retention/constipation
+Tachycardia
+ 
+Blind as a bat, mad as a hatter, red as a beet, hot as a hare, dry as a bone, the bladder and bowel has lost their tone, and the heart runs alone.
+Dopaminergic blockade
+CNS – Parkinson like effects, e.g. akasthisia, dystonia and tardive dyskinesia
+Endocrine effects – amenorrhoea, galactorrhea, infertility and impotence
+H1 blockade
+Sedation
+Combined H1/5HT-2 block
+Weight gain
+The anti-psychotics also cause QT-prolongation (increased risk of TdP). Overall CVS effects are reduced MAP, reduced TMR and overall reduced SV (hypotension and tachycardia)",,,,Typical anti-psychotics of the phenothiazine class,"Main toxicological concerns in OD are CNS depression, hypotension, tachyarrhythmias and TdP.
+Benztropine is the antidote for dystonic reactions.",
+PHENYTOIN,PO or IV,"Mainly CVS, CNS and skin complications
+CNS: ataxia, nystagmus and diplopia
+CVS: arrhythmia, hypotension especially at fast infusion rates.
+Skin: rare. However, may get SJS/idiosyncratic rash.",,Very highly bound to plasma proteins. Drugs that are highly protein bound (e.g. sulfonamides/warfarin) will displace it.,"In status epilepticus, the adult dose is 15-20mg/kg.
+Deliver as an IV infusion of no more than 50mg/minute. This avoids the complication of hypotension and possible cardiovascular collapse.",Renal,"Status epilepticus
+Partial/generalized TCS
+Digitalis induced arrhythmias","Drugs that are highly protein bound will displace phenytoin and reduce its effect (e.g. warfarin, sulfasalazine)
+Enzyme inducers will reduce its level (carbamazepine, rifampicin)
+Enzyme inhibitors will increase its level (amiodarone, metronidazole)
+Phenytoin itself is an enzyme inducer and therefore it may reduce effects of corticosteroids or doxycycline. There is no auto-induction.","To inactive metabolites.
+Phenytoin demonstrates dose-dependent metabolism and excretion.
+It follows first order kinetics at low blood levels.
+At higher blood levels (even within the therapeutic range) the metabolism then begins to follow zero order kinetics.
+A small increase in dosage may represent a large increase in plasma levels.
+T ½ of 12-36 hours, taking 5-7 days to reach steady state.","Affects Na, K and Ca2+ conductance.
+Preferentially binds to the inactivated state of Na+ channels, therefore prolonging the inactivated states.
+Has a use dependent effect.
+Overall inhibits the generation of rapidly repetitive action potentials.
+Thought to also reduce glutamate synthesis
+Thought to enhance GABA release",,,,Diphenyl substituted hydantoin,,
+PROPOFOL,IV only,"Hypotension
+Transient apnoea
+Inability to protect airway
+Anaphylaxis/NV/Headache (very rare)",Absolute contraindications are known hypersensitivity or egg allergy,"Very lipid soluble
+Highly protein bound – 97%
+Vd is high – 2 to 10L/kg","Induction – 1 to 2.5mg/kg (80-200mg in the average person).
+Children need larger doses and pre-medicated patients need lower doses.",Urinary,"Procedural sedation in ED
+Induction agent prior to intubation
+Maintenance of sedation in ED/ICU (ventilated patients)",,"Rapidly metabolized in the liver to inactive products, and then excreted in the urine.
+Note that plasma clearance is high and exceeds hepatic blood flow – there is probably extra-hepatic metabolism as well (the lung is thought to account for 30% of metabolism)
+However, note that the termination of the drug effect after a single bolus dose is mainly due to redistribution of the drug from the CNS to other less well-perfused areas.
+Distribution T ½ ~2-4 minutes, awakening occurs in 8-10 minutes
+Elimination T ½ is 4-23 hours.","Thought to act by potentiating the chloride current through GABA-A channels
+Organ system effects are as follows:
+CVS
+Propofol causes the MOST PROFOUND decrease in systemic blood pressure when compared with other induction agents. This is due to profound arteriolar and venodilation, leading to a marked reduction in preload and afterload. Also, there is a strong inhibition of the normal baroreceptor response, so there is only a small increase in HR. *Use carefully in the elderly/already hypovolemic patient*
+CNS
+Propofol is a hypnotic with no analgesic properties.
+It decreases cerebral metabolic rate and cerebral blood flow, therefore reducing ICP and intra-ocular pressure. However, be aware that the reduction in MAP and cerebral blood flow in combination may cause a critical reduction in cerebral perfusion pressure.
+Respiratory
+Propofol is a potent respiratory depressant.
+Decreases both RR and TV (but decreases TV more)
+It blunts the respiratory center’s response to hypoxia/hypercapnia
+It blunts upper airway reflexes more so than thiopental (good for instrumenting airway/LMA)
+Others
+Propofol related infusion syndrome (PRIS). Characterized by tachycardia and metabolic acidosis. Seen in long term sedation/high doses.
+Good anti-emetic properties
+Pain on injection (use lignocaine/larger vein)",,,"Elderly
+Already hypovolemic
+Additional CNS depression with other drugs (BZD/Opioids/ODs)","2,6 diisopropyl phenol is the chemical name for Propofol",,
+PROTON PUMP INHIBITORS,,,,,,,,,,"They are lipophilic weak bases that are administered as inactive prodrugs with an enteric coating.
+The enteric coating is dissolved in the small intestine. The pro-drug is then absorbed and circulated to the entire body.
+The prodrug then preferentially diffuses into acidified compartments, where they are converted to their active form and irreversibly inhibit H+/K+ ATPase.
+Adverse effects
+Common side effects are nausea, vomiting and diarrhea.
+Rare but serious side effects are rhabdomyolysis and drug induced acute interstitial nephritis.
+It is theoretically more advantageous to administer PPIs as an infusion than as a bolus because they only inhibit pumps that are actively secreting acid (only a small proportion of pumps are active at a time while the patient is fasting, so administration as an infusion leads to more pumps being inhibited)","Can be administered PO or IV
+It is only administered as a prodrug. It should be given 1 hour before meals as the bioavailability is reduced by 50% due to crushing of enteric coating.
+It is also inactivated by stomach acid.
+T ½ is short, but the proton pumps are irreversibly inhibited and need 18 hours to regenerate (the drug has a short T ½ but a long duration of effect). Full acid inhibition occurs in 3-4 days.",,,"Examples of PPIs are omeprazole, pantoprazole and rabeprazole",,
+RIFAMPICIN,"PO, well absorbed","Orange coloured bodily fluids.
+Cholestatic jaundice and occasional hepatitis.",,"Highly protein bound drug.
+Limited penetration to the CSF unless the meninges are already inflamed.", ,"Mostly in faeces, small amount in urine.",,"Remember that rifampicin is a strong inducer of hepatic CYP450 enzymes. Therefore, it increases the excretion of methadone, warfarin, etc.","Hepatic, but no need for dose adjustment in liver or renal disease.","Rifampicin functions by binding to RNA polymerase, therefore inhibiting RNA synthesis.
+Its spectrum of activity covers Gram+ve cocci, Gram-ve cocci, enteric bacteria, chlamydia and mycobacteria (for which it is bactericidal)
+Importantly, rifampicin mutations are widespread, and rifampicin should therefore not be used as single therapy but rather, as combination therapy.
+Indications therefore as follows:
+Mycobacterium infections (in combination with isoniazid)
+To eliminate the carrier status of meningococci
+Can be used to treat serious staph infections (e.g. valve disease or osteomyelitis)",, ,, , , 
+RIVAROXABAN,PO – rapidly absorbed with bioavailability of 80%,Haemorrhage,"Active bleeding
+Any potential for serious life-threatening bleeding","Strongly protein bound (92-95%)
+ ","15-20mg if GFR >30, 10mg if GFR between 15-30 and CI if GFR <15.
+Regular monitoring not necessary due to predictable PK. However, does increase both aPTT and PT.","1/3 of the drug is excreted unchanged in the urine
+The metabolites are inactive and cleared by faecal and renal routes.","Treatment of DVT and PE
+Prevention of venous thromboembolism in adults after major orthopaedic surgery (THR and TKR)
+Prevention of stroke in non-valvular AF",With inhibitors and inducers of CYP systems,"Hepatic, via CYP systems.
+T ½ of 8 hours, increased to 12 hours in the elderly.","Direct inhibitor of Factor Xa (therefore inhibiting the common pathway of coagulation)
+10000x higher affinity for factor Xa than Factor Xia, IXa, VIIa and IIa.",,.,"Renal impairment
+Drug accumulates in renal impairment leading to increased risk of bleeding.
+Requires dose adjustment
+Hepatic impairment
+Contraindicated in severe hepatic disease (Childs-Pugh class B and C) due to impaired clearance and underlying coagulopathy.",Novel oral anti-coagulant (NOAC),"Bleeding
+Cease drug
+Requires reversal with PCC (Prothrombinex) or Recombinant factor VII (NovoSeven).
+FFP also may be useful.
+Will require specialist input from haematology service.",
+SELECTIVE SEROTONIN REUPTAKE INHIBITORS,PO,"Due to too much serotonin in the CNS
+Nausea/vomiting/diarrhea
+Reduced libido
+Headache and insomnia
+Weight gain
+Discontinuation syndrome (dizziness, paraesthesia)",Concurrent use of MAO-I is an absolute contraindication,"Very lipophilic drug
+Strongly protein bound and large Vd: 20-45L/kg à non-dialysable toxin.",,Urinary,"Depressive disorders
+Anxiety disorders, including OCD.","MAO-I
+TCA and Calcium channel blockers have increased activity due to enzyme inhibition by fluoxetine.","Hepatic mainly
+Note that fluoxetine is metabolized to norfluoxetine, its active metabolite. Norfluoxetine’s T ½ is 3x that of fluoxetine and therefore fluoxetine has the longest half-life of all SSRIs.
+This is important because fluoxetine must be stopped at least 4 weeks before commencing a MAO-I.
+Fluoxetine, paroxetine and fluvoxamine are all strong inhibitors of CYP systems.
+Citalopram, escitalopram and sertraline are more modest.","Mainly bind to SERT.
+Minimal histaminergic, adrenergic or muscarinic blockade.",,,,"SSRIs – examples are fluoxetine, citalopram and escitalopram","Use activated charcoal
+BZD may be useful for seizures",
+SEROTONIN/5-HYDROXYTRIPTAMINE,,,,,,,,,,"Binds to, and activates 5-HT receptors.
+Tissue and organ effects as follows:
+CVS
+Potent vasoconstrictor, except in the heart and skeletal muscles, where it causes vasodilation.
+Small positive inotropic and chronotropic action.
+May elicit the chemoreceptor reflex/Bezold Jarish reflex, where serotonin activates 5HT3 receptors on the heart, leading to profound hypotension and bradycardia.
+Immunological function
+Found in platelets – assists with platelet aggregation
+Nervous system
+CNS: functions as a neurotransmitter
+5HT3 receptors participate in the vomiting reflex.
+Implicated in depression/migraine. Also implicated in mood/pain perception/sleep
+Respiratory
+Causes bronchoconstriction and hyperventilation
+GIT
+Prokinetic and secretory effect, resulting in diarrhea.","Formed from tryptophan
+After formation, it is rapidly stored or broken down by MAO to 5HIAA.
+Serotonin can be found in
+Enterochromaffin cells in the GIT (90%)
+Platelets in blood stream
+Serotonergic neurons in the CNS
+The amount of 5-HIAA may be used to detect carcinoid syndrome.",,,Biological amine,,
+SODIUM NITROPRUSSIDE,"IV only.
+It has a T ½ of two minutes, and overall duration of action of 1-10 minutes.
+Its metabolite thiocyanate has a T ½ of 3 days.","Excessive fall in BP (requires arterial line to use)
+Cyanide toxicity – metabolic acidosis, arrhythmia, tachypnea, pink skin and dilated pupils.
+Thiocyanate toxicity – CNS effects, e.g. ataxia, weakness, disorientation, psychosis, N/V and seizures.",,,,Renal,Hypertensive emergency,,"SNP is taken up by RBCs and readily metabolized to release NO and cyanide.
+Cyanide is metabolized in the liver by the mitochondrial enzyme rhodanase to thiocyanate.
+Thiocyanate is then distributed to the extracellular fluid and excreted renally.","It releases NO, which stimulates guanylyl cyclase to increase cGMP levels. This leads to both venodilation and arteriolar dilation.
+In the absence of heart failure, there is a fall in BP due to decreased vascular resistance. Cardiac output generally does not change (or it may fall slightly).
+In patients with heart failure and low cardiac output, SNP may increase cardiac output by decreasing afterload.",,,"Renal impairment (due to reduced excretion of thiocyanate)
+High doses and long infusion times may cause toxicity","It functions as an intravenous vasodilator.
+It is a complex consisting of cyanide group, iron and a nitroso group.","Sodium thiosulphate provides a sulphur group to assist with cyanide metabolism.
+Hydroxycobalamin (Vit B12) can also be used – it is metabolized to a non-toxic byproduct known as cyanocobalamin.",
+SULFONAMIDES,PO,"All sulfur based drugs (diuretics, diazoxide, sulfonoureas, hypoglycaemics and antimicrobials) are cross allergic.
+Most serious (but rare) complication is Steven-Johnsons syndrome.
+May cause haemolytic anaemic, granulocytosis or leukemoid reactions.
+Increased risk of kernicterus",,"Well absorbed from GIT and distributed widely to tissues, including CNS.", ,Urinary – reduce dose in renal failure.,,,Hepatic,"Competes with PABA for folate production in bacteria and therefore reduces purine and DNA synthesis (see above picture)
+Inhibits both Gram+ve and Gram-ve bacteria
+Active against chlamydia, E.coli, Klebsiella, Shigella and Salmonella.
+Note that pseudomonas is intrinsically resistant
+Rickettsial growth is actually enhanced by sulfonamides.
+Remember that the sulfonamides have synergy with trimethoprim due to the sequential inactivation of folate production. Therefore, indications are as follows:
+Bactrim – treat PCP pneumonia
+Sulfadiazine/pyrimethamine – Toxoplasmosis
+Sulfasalazine alone – Ulcerative colitis, IBD
+Topical sulfonamides – bacterial conjunctivitis and burns
+Resistance is usually plasmid encoded. It is due to:
+Increased production of PABA
+Production of a folic acid enzyme that is low in affinity for sulfonamides
+Impaired permeability to sulfonamides",, ,,"The sulfonamides are structurally similar to PABA, a substrate in bacterial folate synthesis.", , 
+SULFONOUREAS,,,,,,,,,,"Functions by binding to a K+ channel, preventing K+ efflux.
+This causes depolarization and opening of a voltage gated Ca2+ channel, that releases the pre-formed insulin.
+Long-term sulfonourea administration causes a reduction in the secretion of glucagon. This causes its hypoglycemic effect.
+ 
+Examples of first generation sulfonoureas are tolbutamide, chlopropamide and tolazamide.
+Examples of second generation sulfonoureas are glipizide, glyburide and glimepiride.",,,,Insulin secretagogues,,
+T-PA,IV,"Haemorrhage, either at the site of thrombus or systemic lysis state from the formation of plasmin à fibrinolysis and destruction of other coagulation factors.","Active bleeding
+Any condition predisposing to severe bleeding (severe HTN/recent surgery/GI ulcer)",,,,"Massive PE
+Ischaemic stroke, within 3/24 of symptoms.
+AMI
+DVT (severe)
+Possibly intra-arterial thrombus.",,"Short half-life (cleared in the liver). As such, heparin must be used together as an adjunct.","Converts plasminogen to plasmin, which then breaks down fibrin.
+In theory, it activates plasminogen that is bound to fibrin, and is supposed to produce local fibrinolysis more so than systemic lysis.",,"A note about the other fibrinolytic drugs:
+Streptokinase is a protein (and not an enzyme) synthesized by streptococci that combines with plasminogen and catalyses it to active plasmin.
+Urokinase is a human enzyme that is produced by the kidney that converts plasminogen to plasmin.
+Tenecteplase has a longer half-life, and therefore can be given as an IV push.
+A note about fibrinolytic inhibitors:
+Aminocaproic acid (EACA) is a competitive inhibitor of plasminogen activator. It can be administered orally or IV, and usually given as a bolus and then an infusion. It is cleared by the kidney. Tranexamic acid is an analog of EACA, with the same properties.
+Clinical indications are haemophilia, bleeding from fibrinolytic therapy, and prophylaxis against re-bleeding from intracranial aneurysms.",,"Fibrinolytic drug –recombinant tissue plasminogen activator. Brand names are alteplase, reteplase and tenecteplase.",,
+TETRACYCLINES,"PO – the bioavailability approaches 100% for doxycycline.
+Absorption is impaired by food and divalent cations (similar property to fluroquinolones)","Hypersensitivity reactions are uncommon. Most of the adverse effects are due to drug effect/alteration of GIT flora.
+GIT effects – nausea, vomiting and diarrhea. The alteration of normal GIT/vaginal flora may lead to candidiasis and C.difficile.
+Bone effects
+May be deposited in teeth/enamel, causing teeth discoloration.
+May also cause growth inhibition and deformity.
+Hence, avoid in the pregnant population and children <8yrs.
+Other reactions are also possible:
+Photosensitivity rash
+Dizziness and vertigo
+Impaired hepatic function",,To tissues widely – but not to CNS., ,Renal. No need for dose adjustment in renal diseases.,,,"Hepatic
+Strong inducers of hepatic enzymes (e.g. carbamazepine, phenobarbital and phenytoin) may decrease the half-life of doxycycline by 50%.","Functions by binding to the 30S subunit of bacterial ribosomes.
+Spectrum of activity is against Gram+ve bacteria, Gram-ve bacteria and intra-cellular organisms (chlamydia, rickettsia and spirochetes)
+As such, clinical indications are as follows:
+Atypical pneumonia (mycoplasma, chlamydia)
+Spirochetes
+STIs – chlamydia
+May be useful in anti-malarial prophylaxis
+Resistance is due to the following mechanisms:
+Reduced influx/increased efflux
+Change of the ribosomal binding site
+Enzymatic inactivation",, ,, , , 
+TRICYCLIC ANTI-DEPRESSANTS,PO,As stated above – important ones are CNS and CVS toxicity,"Absolute CI with MAO-I
+Causes a life threatening serotonin syndrome, characterized by:
+Cognitive impairment: delirium, coma
+Autonomic instability: hypertension, tachycardia, sweating
+Somatic symptoms: myoclonus, hyper-reflexia, tremor
+[Note that serotonin syndrome is thought to be due to overstimulation of the serotonin receptors in the medulla/central gray nuclei]","Well absorbed from GIT
+Highly protein bound, and large Vd (5-30L/kg) à non-dialysable toxin",,Mainly in urine,"Depressive disorders
+ Pain – especially neuropathic
+Trigeminal neuralgia","Additive sedative effects, especially with other anti-histaminergic/anti-psychotic drugs.
+Enzyme inhibitors (e.g. cimetidine and fluoxetine) will increase levels, while
+Enzyme inducers (e.g. phenobarbital, smoking) will decrease levels.
+Note that usage of concurrent sympathomimetic drugs will cause hypertension (Due to decreased uptake of noradrenaline from NET blockade)","Hepatic, by CYP systems
+CYP inhibitors (e.g. fluoxetine, amiodarone and cimetidine) may prolong its effects.","The main anti-depressant activity is from SERT and NET blockade and therefore increased serotonin and increased noradrenaline concentration at the neuronal synapse. However, these drugs are dirty drugs and have muscarinic blockade, alpha-blockade, histaminergic blockade and sodium channel blockade properties. Note that TCAs do not have dopaminergic blockade and therefore do not cause Parkinsonian symptoms.
+Receptor
+Effect
+Anti-muscarinic 
+Dry mouth, constipation, etc. (Remember blind as a bat, mad as a hatter, red as a beet, hot as a bare, dry as a bone, the bladder and bowel lost its tone and the heart runs alone)
+Alpha-blockade
+Profound hypotension
+Na+ channel blockade
+Widened QRS (and correspondingly, long QT). Other conduction defects may be seen.
+H1-receptor blockade
+Sedation",,,,Examples of TCAs are amitriptyline and imipramine,"Use sodium bicarbonate as the antidote
+The main effect of this drug is competition at the sodium channel and also to alkalinize the patient.
+Aim for pH ~7.5, QRS <0.20 and Na 155-160",
+TRIMETHOPRIM,PO and IV,"Anaemia, leukopenia and granulocytopaenia (same with other anti-folate drugs)
+Also has other idiosyncratic reactions – N/V, vasculitis and renal damage.",,"Well absorbed and distributes to all body tissue, including the CNS.",,"By renal mechanisms
+Dose needs to be reduced in renal impairment.
+It is a weak base, and therefore tends to concentrate in urine (which is a weak acid). This property increases its activity in prostatic and vaginal fluids.",,,,"Trimethoprim is a bacteriostatic drug, but it is used synergistically with sulfonamides because they inhibit sequential steps in DNA synthesis. This combination then becomes bactericidal.
+Indications as follows:
+Oral trimethoprim – treat UTI
+Bactrim has a broad spectrum of uses: PCP pneumonia, bacterial diarrhea (treat salmonella and shigella) and UTI/prostatitis.
+IV Bactrim is used to treat severe PCP pneumonia.
+Pyremethamine/sulfonamides used to treat leishmaniasis/toxoplasmosis
+Resistance is plasmid encoded, and due to:
+Reduced cell permeability
+Altered binding sites
+Overproduction of dihydrofolate reductase",,,,Trimethoprim is an inhibitor of dihydrofolate reductase,,
+WARFARIN,"PO or IV, 2-10mg.
+Warfarin has a bioavailability of 100%.",,"Active bleeding
+Any potential for serious life-threatening bleed
+Pregnancy (absolute CI).
+Due to risk of haemorrhage in fetus and development of birth defects.","It is 99% bound to plasma albumin, and therefore has very small Vd (0.12L/kg)
+It has a very long half-life of 36 hours.","Titrate to INR 2-3, or 2.5-3.5 if prosthetic valve","Excreted via enterohepatic circulation, in the stool and in urine.","Hypercoagulable states – DVT/PE
+AF and prevention of ischaemic stroke.
+Prevention of clotting on prosthetic valves","Warfarin has many interactions with other drugs or disease states, due to changes in PK/PD.
+Drugs/situations that increase PT/INR
+Drugs/situations that decrease PT/INR
+PK
+PD
+PK
+PD
+MetronidazoleFluconazoleBactrim
+Amiodarone
+Disulfiram
+Cimetidine
+AspirinHeparinCephalosporins (esp. 3rd gen)
+Body factors, like
+Hepatic dysf(x) and
+Hyperthyroidism
+BarbituratesRifampicinCholestyramine
+DiureticsVitamin KBody factors, like hereditary resistance and hypothyroidism
+Diuretics (e.g. spironolactone) decrease PT due to concentration of clotting factors.
+Hypo/hyperthyroidism both reduce/increase turnover of Vit K dependent factors.
+3rd generation cephalosporins eliminate GI bacteria that produce Vit K.",Liver – bound to glucuronides.,"Functions by blocking the γ (gamma) carboxylation of several glutamate residues in factors II, VII, IX and X. Also blocks the endogenous anticoagulants Protein C and Protein S.
+Also inhibits the reduction of inactive Vit K epoxide to its active hydroxyquinone form.
+Action of warfarin is delated by 8-12 hours. This is due to the partially inhibited synthesis, but unaltered degradation of the Vit K dependent factors (II, VII, IX and X)",,"Note that ethanol, phenothiazines, benzodiazepines, paracetamol, opioids, indomethacin and most other antibiotics (other than the ones listed above) are thought to have no significant effects on anti-coagulation.", ,Oral anticoagulant (coumarin),"Bleeding
+Cease drug.
+Use Vitamin K/Prothrombin Complex Concentrate (Prothrombinex)/FFP/Recombinant Factor VII (NovoSeven)
+Hypercoagulable states
+This is due to inhibition of protein C.
+May cause tissue necrosis (especially cutaneous/breast/intestine)", 
+ZIDOVUDINE,,,,,,,,,,"It acts by inhibiting viral reverse transcriptase, therefore preventing formation of ds-DNA (the pro-virus).
+It is a drug that is usually prescribed in combination therapy because this lowers the possibility of resistance developing.
+Indications as follows:
+HIV affected individuals.
+Reduce progression to AIDS dementia
+Reduce rate of vertical transmission.
+Adverse effects
+Myelosuppression – either macrocytic anaemia or neutropenia","Administered PO
+Serum T ½ only 1 hour, but it has an intracellular T ½ of 3-4 hours allowing BD dosing.
+It undergoes hepatic glucuronidation and is excreted by the kidney.
+Enzyme inhibitors will increase zidovudine levels.
+Zidovudine may decrease phenytoin levels.",,,nucleoside analog reverse-transcriptase inhibitor,,
